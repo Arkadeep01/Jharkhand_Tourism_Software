@@ -32,3 +32,86 @@ Meta Facebook:
   Secret Key: 701d21b4572b48674c74824d3f2ed18d
 
 
+Still now Structure
+firebase-auth-app/
+    ├── public/
+        ├── index.html
+        └── site.png
+    ├── src/
+        ├── components/
+            ├── AuthForm.tsx
+            ├── SignIn.tsx
+            └── SignUp.tsx
+        ├── firebase/
+            └── config.ts
+        ├── pages/
+            ├── HomePage.tsx
+            ├── SignInPage.tsx
+            └── SignUpPage.tsx
+        ├── types/
+            └── index.ts
+        ├── App.tsx
+        └── index.tsx
+    ├── package.json
+    ├── README.md
+    └── tsconfig.json
+node_modules/
+    ├── @types/
+        ├── react/
+            ├── ts5.0/
+                ├── v18/
+                    ├── ts5.0/
+                        ├── global.d.ts
+                        ├── index.d.ts
+                        ├── jsx-dev-runtime.d.ts
+                        └── jsx-runtime.d.ts
+                    ├── global.d.ts
+                    ├── index.d.ts
+                    ├── jsx-dev-runtime.d.ts
+                    └── jsx-runtime.d.ts
+                ├── canary.d.ts
+                ├── experimental.d.ts
+                ├── global.d.ts
+                ├── index.d.ts
+                ├── jsx-dev-runtime.d.ts
+                └── jsx-runtime.d.ts
+            ├── canary.d.ts
+            ├── compiler-runtime.d.ts
+            ├── experimental.d.ts
+            ├── global.d.ts
+            ├── index.d.ts
+            ├── jsx-dev-runtime.d.ts
+            ├── jsx-runtime.d.ts
+            ├── LICENSE
+            ├── package.json
+            └── README.md
+        └── react-dom/
+            ├── test-utils/
+                └── index.d.ts
+            ├── canary.d.ts
+            ├── client.d.ts
+            ├── experimental.d.ts
+            ├── index.d.ts
+            ├── LICENSE
+            ├── package.json
+            ├── README.md
+            ├── server.browser.d.ts
+            ├── server.bun.d.ts
+            ├── server.d.ts
+            ├── server.edge.d.ts
+            ├── server.node.d.ts
+            ├── static.browser.d.ts
+            ├── static.d.ts
+            ├── static.edge.d.ts
+            └── static.node.d.ts
+    ├── csstype/
+        ├── index.d.ts
+        ├── index.js.flow
+        ├── LICENSE
+        ├── package.json
+        └── README.md
+    └── .package-lock.json
+LICENSE
+package-lock.json
+package.json
+README.md
