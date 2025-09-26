@@ -22,10 +22,9 @@
 5.  **Events & Festivals Calendar**
 6.  **Food & Cuisine Section**
 7.  **Photo & Video Gallery**
-8.  **Local Voices Section**
-9.  **Travel Guides & Itineraries**
-10. **Interactive Storytelling**
-11. **AR/VR Previews of Sites**
+8.  **Travel Guides & Itineraries**
+9. **Interactive Storytelling**
+10. **AR/VR Previews of Sites**
 
 ### III. Booking, Commerce & Financial Security
 1.  **Accommodation & Stays**
@@ -52,8 +51,7 @@
 6.  **User-Generated Content Gallery**
 7.  **Gamification & Badges**
 8.  **Travel Buddy Finder**
-9.  **Volunteer & Eco-Tourism Projects**
-10. **Feedback System** (AI-driven sentiment analysis)
+9. **Feedback System** (AI-driven sentiment analysis)
 
 ### VI. Accessibility & Backend Management
 1.  **Accessibility Support** (Sign language bot, voice navigation)
