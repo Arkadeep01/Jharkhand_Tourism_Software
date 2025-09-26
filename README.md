@@ -64,7 +64,7 @@
 
 ## ⚙️ Technical Credentials
 
-This section contains sensitive API keys and connection strings. **WARNING: Do not commit these credentials directly to a public repository.** For production deployments, these must be stored securely using environment variables or a dedicated secret management service.
+**THE INFORMATION IN THIS SECTION IS TOTALLY PERSONAL ONLY UNTIL THE PROJECT DEVELOPMENT**
 
 ### 🔑 API Keys & Connection Strings
 
