@@ -1,6 +1,6 @@
 import { HardhatUserConfig } from "hardhat/config";
-import "@nomiclabs/hardhat-ethers";
-import "@nomiclabs/hardhat-etherscan";
+import "@nomicfoundation/hardhat-ethers";
+import "@nomicfoundation/hardhat-toolbox";
 import "dotenv/config";
 
 
@@ -10,7 +10,7 @@ const BLOCKCHAIN_CHAIN_ID = process.env.BLOCKCHAIN_CHAIN_ID
   ? parseInt(process.env.BLOCKCHAIN_CHAIN_ID)
   : 80001;
 const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || "";
-const PAYMENT_PROOF_CONTRACT = process.env.PAYMENT_PROOF_CONTRACT || "";
+// const PAYMENT_PROOF_CONTRACT = process.env.PAYMENT_PROOF_CONTRACT || "";
 
 const config: HardhatUserConfig = {
   solidity: {
@@ -40,7 +40,7 @@ const config: HardhatUserConfig = {
     },
   },
   etherscan: {
-    apiKey: ETHERSCAN_API_KEY, 
+    apiKey: process.env.ETHERSCAN_API_KEY, 
   },
   mocha: {
     timeout: 20000,
