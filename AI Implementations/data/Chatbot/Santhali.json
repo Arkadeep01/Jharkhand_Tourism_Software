@@ -1,0 +1,757 @@
+[
+{
+"question_key": "greeting",
+"user_examples": ["johar", "namaste", "hello", "hi"],
+"reply_text": "Johar! Aap kana achhan?"
+},
+{
+"question_key": "how_are_you",
+"user_examples": ["kemiti acha", "tame kemiti", "how are you"],
+"reply_text": "Enge! Aap?"
+},
+{
+"question_key": "thank_you",
+"user_examples": ["dhanyabad", "thanks", "thank you"],
+"reply_text": "Dhanyabad! Kothin na"
+},
+{
+"question_key": "goodbye",
+"user_examples": ["alag", "bye", "goodbye"],
+"reply_text": "Alag! Phir milen"
+},
+{
+"question_key": "name",
+"user_examples": ["tor nam kana", "what is your name"],
+"reply_text": "Mor nam [Bot] he"
+},
+{
+"question_key": "where_from",
+"user_examples": ["tum kuthi acha", "where are you from"],
+"reply_text": "Mo Jharkhand he"
+},
+{
+"question_key": "help",
+"user_examples": ["sahay karo", "help me"],
+"reply_text": "Kripya boliye, kana sahay chahen?"
+},
+{
+"question_key": "food",
+"user_examples": ["khana", "food", "bhojan"],
+"reply_text": "Aap kana khana chahen?"
+},
+{
+"question_key": "water",
+"user_examples": ["pani", "water", "jal"],
+"reply_text": "Pani ene achen"
+},
+{
+"question_key": "weather",
+"user_examples": ["mosam kana", "how is weather"],
+"reply_text": "Aaj mosam suhana he"
+},
+{
+"question_key": "directions",
+"user_examples": ["rasta batao", "directions", "where is"],
+"reply_text": "Kripya jagah boliye"
+},
+{
+"question_key": "time",
+"user_examples": ["samay kana", "what time", "time"],
+"reply_text": "Abhi samay [current_time] he"
+},
+{
+"question_key": "family",
+"user_examples": ["parivar", "family", "ghar"],
+"reply_text": "Mora parivar bhal he"
+},
+{
+"question_key": "work",
+"user_examples": ["kam", "work", "karya"],
+"reply_text": "Mo kam kheti he"
+},
+{
+"question_key": "health",
+"user_examples": ["swasthya", "health", "tabiyat"],
+"reply_text": "Enge! Aap?"
+},
+{
+"question_key": "festival",
+"user_examples": ["parab", "festival", "tyohar"],
+"reply_text": "Sohrai parab manae jai"
+},
+{
+"question_key": "language",
+"user_examples": ["bhasha", "language", "boli"],
+"reply_text": "Mo Santhali bhasha janen"
+},
+{
+"question_key": "culture",
+"user_examples": ["sanskriti", "culture", "riti"],
+"reply_text": "Santhali sanskriti sundar he"
+},
+{
+"question_key": "nature",
+"user_examples": ["prakriti", "nature", "jungle"],
+"reply_text": "Jharkhand prakriti sundar he"
+},
+{
+"question_key": "education",
+"user_examples": ["shiksha", "education", "padhai"],
+"reply_text": "Bachchon ke liye shiksha jaruri he"
+},
+{
+"question_key": "music",
+"user_examples": ["sangeet", "music", "dhun"],
+"reply_text": "Santhali sangeet manohar he"
+},
+{
+"question_key": "dance",
+"user_examples": ["nach", "dance", "nritya"],
+"reply_text": "Santhali nach ati sundar he"
+},
+{
+"question_key": "art",
+"user_examples": ["kala", "art", "chitra"],
+"reply_text": "Santhali kala prasiddh he"
+},
+{
+"question_key": "agriculture",
+"user_examples": ["kheti", "agriculture", "farming"],
+"reply_text": "Kheti hamara jeevan he"
+},
+{
+"question_key": "animals",
+"user_examples": ["janwar", "animals", "pashu"],
+"reply_text": "Jungle me bahut janwar hain"
+},
+{
+"question_key": "village",
+"user_examples": ["gaon", "village", "gram"],
+"reply_text": "Mora gaon chhota he"
+},
+{
+"question_key": "tradition",
+"user_examples": ["parampara", "tradition", "reeti"],
+"reply_text": "Hamari parampara purani he"
+},
+{
+"question_key": "beliefs",
+"user_examples": ["biswas", "beliefs", "aastha"],
+"reply_text": "Aap kya biswas karte hain?"
+},
+{
+"question_key": "gods",
+"user_examples": ["devi-devta", "gods", "ishwar"],
+"reply_text": "Marang Buru hamara devta he"
+},
+{
+"question_key": "prayer",
+"user_examples": ["puja", "prayer", "prarthana"],
+"reply_text": "Subah puja karte hain"
+},
+{
+"question_key": "celebration",
+"user_examples": ["jashn", "celebration", "utsav"],
+"reply_text": "Baha parab jashn manate hain"
+},
+{
+"question_key": "customs",
+"user_examples": ["rivaj", "customs", "dastur"],
+"reply_text": "Har gaon ke rivaj alag hain"
+},
+{
+"question_key": "costume",
+"user_examples": ["pahchan", "costume", "vesha"],
+"reply_text": "Santhali pahchan poshak he"
+},
+{
+"question_key": "ornaments",
+"user_examples": ["gahana", "ornaments", "jewelry"],
+"reply_text": "Auraton ko gahana pasand he"
+},
+{
+"question_key": "crafts",
+"user_examples": ["hunar", "crafts", "karigari"],
+"reply_text": "Dhokra karigari mashhur he"
+},
+{
+"question_key": "food_items",
+"user_examples": ["khana", "food", "bhojan"],
+"reply_text": "Dhuska aur Litti khate hain"
+},
+{
+"question_key": "drinks",
+"user_examples": ["peya", "drinks", "sharbat"],
+"reply_text": "Mahua peya banate hain"
+},
+{
+"question_key": "market",
+"user_examples": ["bazar", "market", "mandi"],
+"reply_text": "Haat bazar lagta he"
+},
+{
+"question_key": "trade",
+"user_examples": ["vyapar", "trade", "beopari"],
+"reply_text": "Sabji vyapas karte hain"
+},
+{
+"question_key": "tools",
+"user_examples": ["auzar", "tools", "yantra"],
+"reply_text": "Kheti ke auzar jaruri hain"
+},
+{
+"question_key": "housing",
+"user_examples": ["makan", "housing", "ghar"],
+"reply_text": "Kachcha ghar bante hain"
+},
+{
+"question_key": "transport",
+"user_examples": ["sawari", "transport", "yatra"],
+"reply_text": "Gaadi sawari karte hain"
+},
+{
+"question_key": "communication",
+"user_examples": ["sampark", "communication", "sambandh"],
+"reply_text": "Mobile se sampark karte hain"
+},
+{
+"question_key": "healthcare",
+"user_examples": ["swasthya seva", "healthcare", "ilaj"],
+"reply_text": "Daktar se ilaj karate hain"
+},
+{
+"question_key": "education_system",
+"user_examples": ["vidyalaya", "education", "school"],
+"reply_text": "Gaon mein school he"
+},
+{
+"question_key": "youth",
+"user_examples": ["jawan", "youth", "naujawan"],
+"reply_text": "Jawan log shehar jate hain"
+},
+{
+"question_key": "elderly",
+"user_examples": ["buddha", "elderly", "vridh"],
+"reply_text": "Buddha log kahani sunate hain"
+},
+{
+"question_key": "children",
+"user_examples": ["bachcha", "children", "bache"],
+"reply_text": "Bachche khelte hain"
+},
+{
+"question_key": "community",
+"user_examples": ["samuday", "community", "gusthi"],
+"reply_text": "Samuday milan karta he"
+},
+{
+"question_key": "unity",
+"user_examples": ["ekta", "unity", "jod"],
+"reply_text": "Ekta me bal he"
+},
+{
+"question_key": "struggle",
+"user_examples": ["sangharsh", "struggle", "ladai"],
+"reply_text": "Zameen ke liye sangharsh karte hain"
+},
+{
+"question_key": "freedom",
+"user_examples": ["azadi", "freedom", "swatantra"],
+"reply_text": "Azadi amolak he"
+},
+{
+"question_key": "identity",
+"user_examples": ["pehchan", "identity", "shanakhti"],
+"reply_text": "Santhali pehchan he"
+},
+{
+"question_key": "pride",
+"user_examples": ["garv", "pride", "fakhr"],
+"reply_text": "Apni sanskriti par garv karte hain"
+},
+{
+"question_key": "hope",
+"user_examples": ["asha", "hope", "ummeed"],
+"reply_text": "Bhavishya ke liye asha rakhte hain"
+},
+{
+"question_key": "future",
+"user_examples": ["bhavishya", "future", "mustaqbil"],
+"reply_text": "Bhavishya ujwal hoga"
+},
+{
+"question_key": "dreams",
+"user_examples": ["sapna", "dreams", "khawab"],
+"reply_text": "Bachchon ke sapne pure honge"
+},
+{
+"question_key": "aspirations",
+"user_examples": ["lakshya", "aspirations", "arman"],
+"reply_text": "Padhai karke safal banna chahte hain"
+},
+{
+"question_key": "challenges",
+"user_examples": ["chunauti", "challenges", "mushkil"],
+"reply_text": "Paani ki kami badi chunauti he"
+},
+{
+"question_key": "solutions",
+"user_examples": ["hal", "solutions", "samadhan"],
+"reply_text": "Jal sanrakshan se hal milega"
+},
+{
+"question_key": "development",
+"user_examples": ["vikas", "development", "taraqqi"],
+"reply_text": "Gaon vikas chahte hain"
+},
+{
+"question_key": "progress",
+"user_examples": ["pragati", "progress", "kamal"],
+"reply_text": "Shiksha se pragati hogi"
+},
+{
+"question_key": "sustainability",
+"user_examples": ["sthirta", "sustainability", "barkat"],
+"reply_text": "Prakriti ke saath jeena sikhate hain"
+},
+{
+"question_key": "environment",
+"user_examples": ["paryavaran", "environment", "mauli"],
+"reply_text": "Jungle ko bachana jaruri he"
+},
+{
+"question_key": "conservation",
+"user_examples": ["sanrakshan", "conservation", "hifazat"],
+"reply_text": "Janwaron ka sanrakshan karte hain"
+},
+{
+"question_key": "resources",
+"user_examples": ["sambhav", "resources", "zarkhiz"],
+"reply_text": "Jal aur zameen hamare sambhav hain"
+},
+{
+"question_key": "management",
+"user_examples": ["prabandhan", "management", "intizam"],
+"reply_text": "Pani ka prabandhan karte hain"
+},
+{
+"question_key": "planning",
+"user_examples": ["yojana", "planning", "tahreer"],
+"reply_text": "Fasal yojana banate hain"
+},
+{
+"question_key": "implementation",
+"user_examples": ["karyanwayan", "implementation", "amal"],
+"reply_text": "Yojna ko amal mein late hain"
+},
+{
+"question_key": "monitoring",
+"user_examples": ["nigrani", "monitoring", "dekhbhal"],
+"reply_text": "Kaam ki nigrani karte hain"
+},
+{
+"question_key": "evaluation",
+"user_examples": ["mulyankan", "evaluation", "taiyun"],
+"reply_text": "Nateejon ka mulyankan karte hain"
+},
+{
+"question_key": "improvement",
+"user_examples": ["sudhar", "improvement", "behtar"],
+"reply_text": "Har roz sudhar karte hain"
+},
+{
+"question_key": "innovation",
+"user_examples": ["nayata", "innovation", "tajdeed"],
+"reply_text": "Naye tareeke se kheti karte hain"
+},
+{
+"question_key": "technology",
+"user_examples": ["taknik", "technology", "fun"],
+"reply_text": "Mobile taknik use karte hain"
+},
+{
+"question_key": "digital",
+"user_examples": ["digital", "computer", "online"],
+"reply_text": "Digital payment shuru kiye hain"
+},
+{
+"question_key": "connectivity",
+"user_examples": ["jod", "connectivity", "rabta"],
+"reply_text": "Internet se jod badha he"
+},
+{
+"question_key": "information",
+"user_examples": ["suchna", "information", "khabar"],
+"reply_text": "Radio se suchna milti he"
+},
+{
+"question_key": "knowledge",
+"user_examples": ["gyan", "knowledge", "ilm"],
+"reply_text": "Purano se gyan milta he"
+},
+{
+"question_key": "wisdom",
+"user_examples": ["buddhi", "wisdom", "danish"],
+"reply_text": "Anubhav se buddhi badhti he"
+},
+{
+"question_key": "experience",
+"user_examples": ["anubhav", "experience", "tajurba"],
+"reply_text": "Kheti ka anubhav he"
+},
+{
+"question_key": "skills",
+"user_examples": ["kala", "skills", "hunar"],
+"reply_text": "Dhaga banane ki kala he"
+},
+{
+"question_key": "training",
+"user_examples": ["prashikshan", "training", "tarbiyat"],
+"reply_text": "Hunar prashikshan lete hain"
+},
+{
+"question_key": "employment",
+"user_examples": ["rojgar", "employment", "nokari"],
+"reply_text": "Gaon mein rojgar kami he"
+},
+{
+"question_key": "livelihood",
+"user_examples": ["jeevika", "livelihood", "guzara"],
+"reply_text": "Kheti se jeevika chalti he"
+},
+{
+"question_key": "income",
+"user_examples": ["aamdani", "income", "kamai"],
+"reply_text": "Sabji bechkar aamdani hoti he"
+},
+{
+"question_key": "savings",
+"user_examples": ["bachat", "savings", "bachat"],
+"reply_text": "Chhoti bachat karte hain"
+},
+{
+"question_key": "investment",
+"user_examples": ["nivesh", "investment", "sarmaya"],
+"reply_text": "Bail mein nivesh karte hain"
+},
+{
+"question_key": "business",
+"user_examples": ["vyavsaya", "business", "karobar"],
+"reply_text": "Chhota dukan chalate hain"
+},
+{
+"question_key": "entrepreneurship",
+"user_examples": ["udhyam", "entrepreneurship", "kamyabi"],
+"reply_text": "Naye udhyam shuru karte hain"
+},
+{
+"question_key": "market_access",
+"user_examples": ["bazar pahunch", "market access", "mandi"],
+"reply_text": "Shehar ke bazar jate hain"
+},
+{
+"question_key": "pricing",
+"user_examples": ["dam", "pricing", "qimat"],
+"reply_text": "Sasta dam rakhte hain"
+},
+{
+"question_key": "quality",
+"user_examples": ["guna", "quality", "khubi"],
+"reply_text": "Achhi guna rakhte hain"
+},
+{
+"question_key": "packaging",
+"user_examples": ["packing", "packaging", "lipi"],
+"reply_text": "Patri se packing karte hain"
+},
+{
+"question_key": "distribution",
+"user_examples": ["vitaran", "distribution", "baant"],
+"reply_text": "Gaon mein vitaran karte hain"
+},
+{
+"question_key": "marketing",
+"user_examples": ["vyapar prachar", "marketing", "targheeb"],
+"reply_text": "Haat mein prachar karte hain"
+},
+{
+"question_key": "customer_service",
+"user_examples": ["grahak seva", "customer service", "khidmat"],
+"reply_text": "Grahakon se acche se baat karte hain"
+},
+{
+"question_key": "feedback",
+"user_examples": ["pratikriya", "feedback", "raay"],
+"reply_text": "Sabki pratikriya sunte hain"
+},
+{
+"question_key": "satisfaction",
+"user_examples": ["santust", "satisfaction", "qurb"],
+"reply_text": "Kaam se santust rehte hain"
+},
+{
+"question_key": "loyalty",
+"user_examples": ["vafadar", "loyalty", "wafa"],
+"reply_text": "Apne doston ke saath vafadar rehte hain"
+},
+{
+"question_key": "trust",
+"user_examples": ["bharosa", "trust", "yaqeen"],
+"reply_text": "Samuday par bharosa karte hain"
+},
+{
+"question_key": "reputation",
+"user_examples": ["paband", "reputation", "shohrat"],
+"reply_text": "Imandari se paband banate hain"
+},
+{
+"question_key": "ethics",
+"user_examples": ["naitik", "ethics", "akhlaq"],
+"reply_text": "Naitik kaam karte hain"
+},
+{
+"question_key": "values",
+"user_examples": ["mulya", "values", "qadar"],
+"reply_text": "Apne sanskritik mulyon ko nibhate hain"
+},
+{
+"question_key": "principles",
+"user_examples": ["siddhant", "principles", "usul"],
+"reply_text": "Sachai aur imandari ke siddhant hain"
+},
+{
+"question_key": "integrity",
+"user_examples": ["poornata", "integrity", "istehkam"],
+"reply_text": "Har kaam mein poornata rakhte hain"
+},
+{
+"question_key": "respect",
+"user_examples": ["samman", "respect", "izzat"],
+"reply_text": "Buzurgon ka samman karte hain"
+},
+{
+"question_key": "dignity",
+"user_examples": ["garima", "dignity", "abru"],
+"reply_text": "Apni garima bachate hain"
+},
+{
+"question_key": "equality",
+"user_examples": ["samatav", "equality", "barabari"],
+"reply_text": "Sabki barabari me believe karte hain"
+},
+{
+"question_key": "justice",
+"user_examples": ["nyay", "justice", "insaf"],
+"reply_text": "Nyay ke liye ladte hain"
+},
+{
+"question_key": "rights",
+"user_examples": ["adhikar", "rights", "huqooq"],
+"reply_text": "Apne adhikaron ke liye jaagruk hain"
+},
+{
+"question_key": "responsibilities",
+"user_examples": ["zimmedari", "responsibilities", "zimma"],
+"reply_text": "Samuday ki zimmedari nibhate hain"
+},
+{
+"question_key": "accountability",
+"user_examples": ["jawabdehi", "accountability", "javabgahi"],
+"reply_text": "Apne kaamon ki jawabdehi lete hain"
+},
+{
+"question_key": "transparency",
+"user_examples": ["pardarshita", "transparency", "shafafiyat"],
+"reply_text": "Sab kuch pardarsh tarike se karte hain"
+},
+{
+"question_key": "participation",
+"user_examples": ["bhaagidaar", "participation", "shirkat"],
+"reply_text": "Har kaam me bhaag lete hain"
+},
+{
+"question_key": "collaboration",
+"user_examples": ["sahyog", "collaboration", "karwai"],
+"reply_text": "Milkar kaam karte hain"
+},
+{
+"question_key": "partnership",
+"user_examples": ["saath", "partnership", "rishhta"],
+"reply_text": "Sarkath ke saath kaam karte hain"
+},
+{
+"question_key": "networking",
+"user_examples": ["jaldari", "networking", "talluqat"],
+"reply_text": "Logon se jaldari banate hain"
+},
+{
+"question_key": "advocacy",
+"user_examples": ["vakalat", "advocacy", "taleem"],
+"reply_text": "Apne adhikaron ke liye vakalat karte hain"
+},
+{
+"question_key": "awareness",
+"user_examples": ["jagrukta", "awareness", "agahi"],
+"reply_text": "Logon mein jagrukta failate hain"
+},
+{
+"question_key": "empowerment",
+"user_examples": ["sashaktikaran", "empowerment", "quwwat"],
+"reply_text": "Auraton ko sashaktikaran karte hain"
+},
+{
+"question_key": "capacity_building",
+"user_examples": ["kshamata vikas", "capacity building", "zahni"],
+"reply_text": "Kshamata vikas karyakram chalate hain"
+},
+{
+"question_key": "resilience",
+"user_examples": ["sthirta", "resilience", "mazbooti"],
+"reply_text": "Mushkilo ke samay sthir rehte hain"
+},
+{
+"question_key": "adaptation",
+"user_examples": ["anukulan", "adaptation", "mutabiqat"],
+"reply_text": "Mosam ke hisab se anukulan karte hain"
+},
+{
+"question_key": "mitigation",
+"user_examples": ["nivaran", "mitigation", "kam"],
+"reply_text": "Paani ki kami ka nivaran karte hain"
+},
+{
+"question_key": "preparedness",
+"user_examples": ["taiyari", "preparedness", "hushyar"],
+"reply_text": "Aapati ke liye taiyar rehte hain"
+},
+{
+"question_key": "response",
+"user_examples": ["pratikriya", "response", "jawab"],
+"reply_text": "Jaldi pratikriya dete hain"
+},
+{
+"question_key": "recovery",
+"user_examples": ["uthan", "recovery", "behas"],
+"reply_text": "Aapdi ke baad uthan karte hain"
+},
+{
+"question_key": "rehabilitation",
+"user_examples": ["punarvas", "rehabilitation", "abaad"],
+"reply_text": "Prabhaviton ko punarvas karte hain"
+},
+{
+"question_key": "restoration",
+"user_examples": ["punasthapana", "restoration", "durusti"],
+"reply_text": "Jungle ki punasthapana karte hain"
+},
+{
+"question_key": "regeneration",
+"user_examples": ["punarjanan", "regeneration", "taza"],
+"reply_text": "Zameen ki punarjanan karte hain"
+},
+{
+"question_key": "renewal",
+"user_examples": ["navikaran", "renewal", "naya"],
+"reply_text": "Har saal navikaran karte hain"
+},
+{
+"question_key": "revival",
+"user_examples": ["punarjagran", "revival", "zinda"],
+"reply_text": "Purani paramparaon ka punarjagran karte hain"
+},
+{
+"question_key": "rejuvenation",
+"user_examples": ["punarjawani", "rejuvenation", "tazgi"],
+"reply_text": "Jalawaron ki punarjawani karte hain"
+},
+{
+"question_key": "revitalization",
+"user_examples": ["punargaurav", "revitalization", "roshan"],
+"reply_text": "Gaon ka punargaurav karte hain"
+},
+{
+"question_key": "reformation",
+"user_examples": ["sudhar", "reformation", "islah"],
+"reply_text": "Samuday ki sudhar karte hain"
+},
+{
+"question_key": "transformation",
+"user_examples": ["parivartan", "transformation", "badalav"],
+"reply_text": "Zindagi me parivartan karte hain"
+},
+{
+"question_key": "transition",
+"user_examples": ["awasthantaran", "transition", "guzar"],
+"reply_text": "Naye daur me awasthantaran karte hain"
+},
+{
+"question_key": "evolution",
+"user_examples": ["vikas", "evolution", "irtiqa"],
+"reply_text": "Samuday ka vikas dekhte hain"
+},
+{
+"question_key": "progression",
+"user_examples": ["agrasar", "progression", "taraqqi"],
+"reply_text": "Kaam me agrasar hote hain"
+},
+{
+"question_key": "advancement",
+"user_examples": ["unnati", "advancement", "kamal"],
+"reply_text": "Shiksha mein unnati karte hain"
+},
+{
+"question_key": "enhancement",
+"user_examples": ["vridhhi", "enhancement", "afzai"],
+"reply_text": "Kheti ki vridhhi karte hain"
+},
+{
+"question_key": "improvement",
+"user_examples": ["sudhar", "improvement", "behtar"],
+"reply_text": "Har roz sudhar karte hain"
+},
+{
+"question_key": "upgradation",
+"user_examples": ["unnati", "upgradation", "bhalai"],
+"reply_text": "Jivan ki unnati karte hain"
+},
+{
+"question_key": "modernization",
+"user_examples": ["adhunikta", "modernization", "jadid"],
+"reply_text": "Adhunik taknik use karte hain"
+},
+{
+"question_key": "innovation",
+"user_examples": ["nayata", "innovation", "tajdeed"],
+"reply_text": "Naye tareeke se kaam karte hain"
+},
+{
+"question_key": "creativity",
+"user_examples": ["srijanatmak", "creativity", "khalis"],
+"reply_text": "Kala mein srijanatmak hain"
+},
+{
+"question_key": "originality",
+"user_examples": ["asli", "originality", "asal"],
+"reply_text": "Apne tarike se kaam karte hain"
+},
+{
+"question_key": "uniqueness",
+"user_examples": ["vishesh", "uniqueness", "anokha"],
+"reply_text": "Hamari sanskriti vishesh he"
+},
+{
+"question_key": "distinctiveness",
+"user_examples": ["alag", "distinctiveness", "mukhtalif"],
+"reply_text": "Hamari boli alag he"
+},
+{
+"question_key": "identity",
+"user_examples": ["pehchan", "identity", "shanakhti"],
+"reply_text": "Santhali pehchan he"
+},
+{
+  "question_key": "heritage",
+  "user_examples": ["virasat", "heritage", "warisa", "parampara", "itihaas"],
+  "reply_text": "Yahan ke virasat mein Tribal Culture Centre, State Museum aur parampara se judi bahut si jagahen shamil hain."
+}
+]

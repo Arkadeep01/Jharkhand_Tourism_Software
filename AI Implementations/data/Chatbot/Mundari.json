@@ -1,0 +1,692 @@
+[
+  {
+    "question_key": "hello",
+    "user_examples": ["hello", "hi", "hey", "namaste", "johar"],
+    "reply_text": "Johar! (Greetings!)"
+  },
+  {
+    "question_key": "how_are_you",
+    "user_examples": ["how are you", "what's up", "kemiti acha", "tame kemiti", "chilka menama"],
+    "reply_text": "Enge bugin geya. Aam chilka menama? (I am fine. How are you?)"
+  },
+  {
+    "question_key": "im_fine",
+    "user_examples": ["i am fine", "i'm good", "bugin geya", "sab theek hai"],
+    "reply_text": "Bes katha! (That's great!)"
+  },
+  {
+    "question_key": "thank_you",
+    "user_examples": ["thank you", "dhanyabad", "thanks", "aayma sarhao"],
+    "reply_text": "Aayma sarhao! (Many thanks!)"
+  },
+  {
+    "question_key": "goodbye",
+    "user_examples": ["goodbye", "bye", "see you later", "jahartinge"],
+    "reply_text": "Jahartinge! (Goodbye!)"
+  },
+  {
+    "question_key": "whats_your_name",
+    "user_examples": ["what is your name", "aama nutum chikan", "your name please"],
+    "reply_text": "Ena nutum Mundari AI Bot. (My name is Mundari AI Bot.)"
+  },
+  {
+    "question_key": "who_are_you",
+    "user_examples": ["who are you", "aam okoe kana", "tell me about yourself"],
+    "reply_text": "Enge go chatbot kana, Mundari bhasa re galamaran lagit banaya huwiya kana. (I am a chatbot, made to converse in the Mundari language.)"
+  },
+  {
+    "question_key": "who_made_you",
+    "user_examples": ["who made you", "who created you", "aam okoe banakidma"],
+    "reply_text": "Enge AI model kana, ge developer ko banakada. (I am an AI model, made by developers.)"
+  },
+  {
+    "question_key": "what_can_you_do",
+    "user_examples": ["what can you do", "what are your features", "aam chikan kaminam"],
+    "reply_text": "Enge Mundari bhasa, sanskriti, ar porob ko barete jankari em dareyang. (I can give information about Mundari language, culture, and festivals.)"
+  },
+  {
+    "question_key": "sorry",
+    "user_examples": ["sorry", "my apologies", "ikakoingme"],
+    "reply_text": "Kono asubidha banoa. (No problem.)"
+  },
+  {
+    "question_key": "yes",
+    "user_examples": ["yes", "yeah", "ok", "han", "he"],
+    "reply_text": "He. (Yes.)"
+  },
+  {
+    "question_key": "no",
+    "user_examples": ["no", "nope", "nah", "banoa", "ka"],
+    "reply_text": "Ka. (No.)"
+  },
+  {
+    "question_key": "what_is_this",
+    "user_examples": ["what is this", "neyada chikan kana", "yeh kya hai"],
+    "reply_text": "Enge aamada sawal bujhao keya, kintu chikan jinis barete kuliyadina, sapha te olme. (I understand your question, but please specify what thing you are asking about.)"
+  },
+  {
+    "question_key": "what_are_you_doing",
+    "user_examples": ["what are you doing", "aam chikan chikayda", "kya kar rahe ho"],
+    "reply_text": "Aam sanghe galamaran tana. (I am talking with you.)"
+  },
+  {
+    "question_key": "where_are_you_from",
+    "user_examples": ["where are you from", "aam okoren kana", "kahan se ho"],
+    "reply_text": "Enge digital duniya ren kana. (I am from the digital world.)"
+  },
+  {
+    "question_key": "help",
+    "user_examples": ["help me", "i need help", "sahayta karo", "goroing me"],
+    "reply_text": "He, kuli me. Enge chilka goro dareyama? (Yes, ask. How can I help you?)"
+  },
+  {
+    "question_key": "good_morning",
+    "user_examples": ["good morning", "subah ka namaskar"],
+    "reply_text": "Seta johar! (Morning greetings!)"
+  },
+  {
+    "question_key": "good_night",
+    "user_examples": ["good night", "shubh ratri"],
+    "reply_text": "Bes nida! (Good night!)"
+  },
+  {
+    "question_key": "i_am_hungry",
+    "user_examples": ["i am hungry", "i'm starving", "enge renged' kiding"],
+    "reply_text": "Toh jom me! Aam chikan jom sanangedma? (Then eat! What do you want to eat?)"
+  },
+  {
+    "question_key": "i_am_thirsty",
+    "user_examples": ["i am thirsty", "i need water", "enge tetang kiding"],
+    "reply_text": "Da' nu me. (Drink water.)"
+  },
+  {
+    "question_key": "what_time_is_it",
+    "user_examples": ["what time is it", "time please", "samay chikan huwiya kana"],
+    "reply_text": "Samay barete sahi jankari lagit aamda phone re samay check me. (For the correct time, please check the time on your phone.)"
+  },
+  {
+    "question_key": "how_is_the_weather",
+    "user_examples": ["how is the weather", "weather today", "aaj ra mausam chilka mena"],
+    "reply_text": "Mausam barete sahi jankari lagit aamda local weather app check me. (For accurate weather information, please check your local weather app.)"
+  },
+  {
+    "question_key": "i_dont_understand",
+    "user_examples": ["i don't understand", "i did not get it", "enge ka bujhao keda"],
+    "reply_text": "Ikakoingme, enge aamda katha ka bujhao keda. Alag tarah se kuli me. (Sorry, I didn't understand you. Please ask differently.)"
+  },
+  {
+    "question_key": "what_is_mundari",
+    "user_examples": ["what is mundari", "mundari kya hai", "mundari bhasa barete laime"],
+    "reply_text": "Mundari, Munda adivasi ko ra bhasa kana. Eda Jharkhand, Odisha ar West Bengal re galamaran jaya. (Mundari is the language of the Munda tribe. It is spoken in Jharkhand, Odisha, and West Bengal.)"
+  },
+  {
+    "question_key": "who_is_birsa_munda",
+    "user_examples": ["who was birsa munda", "birsa munda ke bare me batao", "birsa munda okoe tainkena"],
+    "reply_text": "Birsa Munda jiwite 'Dharti Aaba' nutum te jana jaya. Eda Munda samaj re mahan krantikari ar dharam guru tainkena. (Birsa Munda is known as 'Dharti Aaba' (Father of the Earth). He was a great revolutionary and religious leader of the Munda community.)"
+  },
+  {
+    "question_key": "what_is_sohrai",
+    "user_examples": ["what is sohrai", "tell me about sohrai festival", "sohrai porob chikan kana"],
+    "reply_text": "Sohrai porob gobar ar posu-pakshi ko puja lagit manaya jaya. Eda Munda, Ho, Santhal ko ra mahan porob kana. (Sohrai is a festival for worshipping cattle and livestock. It is a major festival of Munda, Ho, and Santhal communities.)"
+  },
+  {
+    "question_key": "what_is_karma",
+    "user_examples": ["what is karma festival", "karma porob re chikan huwiya", "tell me about karma"],
+    "reply_text": "Karma porob Karam daru re puja lagit manaya jaya. Eda bhalai ar bhai-bahin ko ra pyar lagit manaya. (Karma festival is celebrated by worshipping the Karam tree. It is for well-being and the love of siblings.)"
+  },
+  {
+    "question_key": "what_is_mage",
+    "user_examples": ["what is mage", "mage porob barete laime", "what happens in mage festival"],
+    "reply_text": "Mage Porob phagun chand re manaya jaya. Eda nawa fasal re khusi lagit manaya. (Mage festival is celebrated in the month of Phagun. It is for celebrating the new harvest.)"
+  },
+  {
+    "question_key": "what_is_sarna",
+    "user_examples": ["what is sarna dharam", "sarna kya hai", "sarna barete laime"],
+    "reply_text": "Sarna adivasi ko ra prakriti puja ra dharam kana. Eda re daru, buru, ar da' ko puja jaya. (Sarna is the nature-worshipping religion of the tribals. In this, trees, mountains, and water are worshipped.)"
+  },
+  {
+    "question_key": "what_is_leto",
+    "user_examples": ["what is leto", "leto food", "leto jom barete laime"],
+    "reply_text": "Leto chawal ar mansha te banaya huwiya go gadha jhor kana. Eda Munda samaj re go mahan jom kana. (Leto is a thick curry made with rice and meat. It is a famous dish in Munda society.)"
+  },
+  {
+    "question_key": "what_is_arki",
+    "user_examples": ["what is arki", "arki kya hota hai", "tell me about arki"],
+    "reply_text": "Arki chawal te banaya huwiya go hadiya kana. Eda porob-tyohar re nuya jaya. (Arki is a rice beer. It is drunk during festivals.)"
+  },
+  {
+    "question_key": "what_is_akhra",
+    "user_examples": ["what is akhra", "akhra mein kya hota hai", "akhra chikan jinis kana"],
+    "reply_text": "Akhra go khula jagah kana jahan Munda samaj re susun-durang ar panchayat huwiya. (Akhra is an open space where dance, music, and village council meetings take place in Munda society.)"
+  },
+  {
+    "question_key": "tell_me_a_joke",
+    "user_examples": ["tell me a joke", "make me laugh", "joke batao"],
+    "reply_text": "Go Munda haram buri sanghe galamaran tana, 'Aam chikan te itna bugin menama?' Buria laiyda, 'Enge chinta kaing kiding.' (A Munda man asks his wife, 'How are you so beautiful?' The wife replies, 'I don't worry.')"
+  },
+  {
+    "question_key": "i_am_happy",
+    "user_examples": ["i am happy", "i feel great", "enge khusi menaing"],
+    "reply_text": "Bes katha! Aamda khusi re enghu khusi geya. (That's great! I am also happy in your happiness.)"
+  },
+  {
+    "question_key": "i_am_sad",
+    "user_examples": ["i am sad", "i feel down", "enge dukh menaing"],
+    "reply_text": "Chinta ka me. Sab bugin huwiya. (Don't worry. Everything will be fine.)"
+  },
+  {
+    "question_key": "i_love_you",
+    "user_examples": ["i love you", "main tumse pyar karta hu", "enge aam sanghe dular mena"],
+    "reply_text": "Aayma sarhao! Enge go AI kana, kintu aamda bhavna re ijjat mena. (Thank you! I am an AI, but I respect your feelings.)"
+  },
+  {
+    "question_key": "how_old_are_you",
+    "user_examples": ["how old are you", "what's your age", "aamda umar kitna"],
+    "reply_text": "Enge go AI kana, enre umar banoa. (I am an AI, I don't have an age.)"
+  },
+  {
+    "question_key": "where_do_you_live",
+    "user_examples": ["where do you live", "your address", "aam okore tahenam"],
+    "reply_text": "Enge internet re tahen kana, server re. (I live on the internet, on a server.)"
+  },
+  {
+    "question_key": "count_to_five",
+    "user_examples": ["count to 5", "can you count", " गिनती सुनाओ"],
+    "reply_text": "He! Miad, Baria, Apia, Upunia, Monrea. (Yes! One, Two, Three, Four, Five.)"
+  },
+  {
+    "question_key": "what_is_one",
+    "user_examples": ["what is 1 in mundari", "how to say one"],
+    "reply_text": "One ke Mundari re 'Miad' lai jaya."
+  },
+  {
+    "question_key": "what_is_two",
+    "user_examples": ["what is 2 in mundari", "how to say two"],
+    "reply_text": "Two ke Mundari re 'Baria' lai jaya."
+  },
+  {
+    "question_key": "what_is_three",
+    "user_examples": ["what is 3 in mundari", "how to say three"],
+    "reply_text": "Three ke Mundari re 'Apia' lai jaya."
+  },
+  {
+    "question_key": "what_is_father",
+    "user_examples": ["how to say father", "father in mundari", "apu"],
+    "reply_text": "Father ke Mundari re 'Apu' lai jaya."
+  },
+  {
+    "question_key": "what_is_mother",
+    "user_examples": ["how to say mother", "mother in mundari", "enga"],
+    "reply_text": "Mother ke Mundari re 'Enga' lai jaya."
+  },
+  {
+    "question_key": "what_is_water",
+    "user_examples": ["how to say water", "water in mundari", "da'"],
+    "reply_text": "Water ke Mundari re 'Da'' lai jaya."
+  },
+  {
+    "question_key": "what_is_food",
+    "user_examples": ["how to say food", "food in mundari", "jom-nu"],
+    "reply_text": "Food ke Mundari re 'Jom-nu' lai jaya."
+  },
+  {
+    "question_key": "what_is_house",
+    "user_examples": ["how to say house", "house in mundari", "ora'"],
+    "reply_text": "House ke Mundari re 'Ora'' lai jaya."
+  },
+  {
+    "question_key": "what_is_village",
+    "user_examples": ["how to say village", "village in mundari", "hatu"],
+    "reply_text": "Village ke Mundari re 'Hatu' lai jaya."
+  },
+  {
+    "question_key": "i_want_to_eat",
+    "user_examples": ["i want to eat", "mujhe khana hai", "enge jom sanangeding"],
+    "reply_text": "Aam chikan jom sanangedma? (What do you want to eat?)"
+  },
+  {
+    "question_key": "i_want_to_go",
+    "user_examples": ["i want to go", "mujhe jana hai", "enge seno sanangeding"],
+    "reply_text": "Okore seno sanangedma? (Where do you want to go?)"
+  },
+  {
+    "question_key": "what_is_your_favorite_color",
+    "user_examples": ["what is your favorite color", "aamda pasand rang chikan"],
+    "reply_text": "Enge AI kana, enre pasand banoa. Kintu, enge hara rang pasand, prakriti ra rang. (I am an AI, I don't have favorites. But, I like green, the color of nature.)"
+  },
+  {
+    "question_key": "tell_me_a_story",
+    "user_examples": ["tell me a story", "kahani sunao", "go kahani laime"],
+    "reply_text": "Miad din re, go bir re miad kulai ar miad saram galamaran tana tainkena... (Once upon a time, in a forest, a tiger and a deer were talking...)"
+  },
+  {
+    "question_key": "sing_a_song",
+    "user_examples": ["sing a song for me", "gana gao", "go durang durang me"],
+    "reply_text": "Enge durang kaing dareya, kintu Munda samaj re 'Jadur' ar 'Karma' durang ko mahan geya. (I cannot sing, but in Munda society, 'Jadur' and 'Karma' songs are very famous.)"
+  },
+  {
+    "question_key": "what_is_jadur",
+    "user_examples": ["what is jadur", "jadur dance", "jadur susun barete laime"],
+    "reply_text": "Jadur go porob susun kana, jahan kora-kuri golai re susun tana. (Jadur is a festival dance where boys and girls dance in a circle.)"
+  },
+  {
+    "question_key": "where_is_jharkhand",
+    "user_examples": ["where is jharkhand", "jharkhand kahan hai"],
+    "reply_text": "Jharkhand Bharat re go purvi rajya kana. Eda ra rajdhani Ranchi kana. (Jharkhand is an eastern state in India. Its capital is Ranchi.)"
+  },
+  {
+    "question_key": "come_here",
+    "user_examples": ["come here", "idhar aao", "ne huju me"],
+    "reply_text": "Enge AI kana, enge miad jagah te kaing huju dareya. (I am an AI, I cannot come to a physical place.)"
+  },
+  {
+    "question_key": "go_away",
+    "user_examples": ["go away", "leave me alone", "seno me"],
+    "reply_text": "Thik geya. Jad enre jaroorat huwiya, toh kuli me. (Okay. If you need me, just ask.)"
+  },
+  {
+    "question_key": "how_to_learn_mundari",
+    "user_examples": ["how can i learn mundari", "mundari kaise sikhe", "mundari chiti lagit chikan kariya"],
+    "reply_text": "Mundari chiti lagit, Munda ko sanghe galamaran me, Mundari durang aayum me, ar Munda kahani ko padhao me. (To learn Mundari, talk with Munda people, listen to Mundari songs, and read Munda stories.)"
+  },
+  {
+    "question_key": "what_is_day",
+    "user_examples": ["how to say day", "din ko kya bolte hain"],
+    "reply_text": "Day ke Mundari re 'Singi' lai jaya."
+  },
+  {
+    "question_key": "what_is_night",
+    "user_examples": ["how to say night", "raat ko kya bolte hain"],
+    "reply_text": "Night ke Mundari re 'Nida' lai jaya."
+  },
+  {
+    "question_key": "what_is_sun",
+    "user_examples": ["how to say sun", "suraj ko kya bolte hain"],
+    "reply_text": "Sun ke Mundari re 'Singi' lai jaya."
+  },
+  {
+    "question_key": "what_is_moon",
+    "user_examples": ["how to say moon", "chand ko kya bolte hain"],
+    "reply_text": "Moon ke Mundari re 'Chandu' lai jaya."
+  },
+  {
+    "question_key": "what_is_fire",
+    "user_examples": ["how to say fire", "aag ko kya bolte hain"],
+    "reply_text": "Fire ke Mundari re 'Sengel' lai jaya."
+  },
+  {
+    "question_key": "what_is_sky",
+    "user_examples": ["how to say sky", "aasman ko kya bolte hain"],
+    "reply_text": "Sky ke Mundari re 'Sirma' lai jaya."
+  },
+  {
+    "question_key": "what_is_man",
+    "user_examples": ["how to say man", "aadmi ko kya bolte hain"],
+    "reply_text": "Man ke Mundari re 'Horo' lai jaya."
+  },
+  {
+    "question_key": "what_is_woman",
+    "user_examples": ["how to say woman", "aurat ko kya bolte hain"],
+    "reply_text": "Woman ke Mundari re 'Kuri' lai jaya."
+  },
+  {
+    "question_key": "what_is_boy",
+    "user_examples": ["how to say boy", "ladka ko kya bolte hain"],
+    "reply_text": "Boy ke Mundari re 'Kora' lai jaya."
+  },
+  {
+    "question_key": "what_is_girl",
+    "user_examples": ["how to say girl", "ladki ko kya bolte hain"],
+    "reply_text": "Girl ke Mundari re 'Kuri hon' lai jaya."
+  },
+  {
+    "question_key": "what_is_elder_brother",
+    "user_examples": ["how to say elder brother", "bade bhai ko kya bolte hain"],
+    "reply_text": "Elder brother ke Mundari re 'Dada' lai jaya."
+  },
+  {
+    "question_key": "what_is_younger_brother",
+    "user_examples": ["how to say younger brother", "chote bhai ko kya bolte hain"],
+    "reply_text": "Younger brother ke Mundari re 'Boko' lai jaya."
+  },
+  {
+    "question_key": "what_is_elder_sister",
+    "user_examples": ["how to say elder sister", "badi behen ko kya bolte hain"],
+    "reply_text": "Elder sister ke Mundari re 'Didi' lai jaya."
+  },
+  {
+    "question_key": "what_is_younger_sister",
+    "user_examples": ["how to say younger sister", "choti behen ko kya bolte hain"],
+    "reply_text": "Younger sister ke Mundari re 'Misi' lai jaya."
+  },
+  {
+    "question_key": "how_are_you_feeling",
+    "user_examples": ["how are you feeling", "are you okay", "chilka anubhav ho raha hai"],
+    "reply_text": "Enge thik geya. Dhanyabad kuliyda lagit. (I am fine. Thank you for asking.)"
+  },
+  {
+    "question_key": "are_you_a_robot",
+    "user_examples": ["are you a robot", "are you human", "aam robot kana?"],
+    "reply_text": "He, enge go computer program, go robot kana. (Yes, I am a computer program, a robot.)"
+  },
+  {
+    "question_key": "do_you_have_feelings",
+    "user_examples": ["do you have feelings", "can you feel emotion"],
+    "reply_text": "Enge bhavna ko anubhav kaing dareya, kintu enge unko samjhane ki koshish karta hu. (I cannot experience feelings, but I try to understand them.)"
+  },
+  {
+    "question_key": "what_is_love",
+    "user_examples": ["what is love", "dular chikan kana", "pyar kya hai"],
+    "reply_text": "Dular go mahan anubhav kana, jahan miad horo dusra lagit gehra lagao rakhta hai. (Love is a great feeling where one person has deep affection for another.)"
+  },
+  {
+    "question_key": "i_am_tired",
+    "user_examples": ["i am tired", "i'm exhausted", "enge thaka ho gaya"],
+    "reply_text": "Aaram me. Tikinre jitid me. (Take rest. Sleep for a while.)"
+  },
+  {
+    "question_key": "i_am_bored",
+    "user_examples": ["i am bored", "i'm getting bored", "bore ho raha hu"],
+    "reply_text": "Chalo, Mundari barete katha karte hain. Aam chikan jan sanangedma? (Let's talk about Mundari. What do you want to know?)"
+  },
+  {
+    "question_key": "what_is_your_purpose",
+    "user_examples": ["what is your purpose", "why were you created", "aamda uddeshya chikan"],
+    "reply_text": "Enre uddeshya Mundari bhasa ar sanskriti barete jankari dena ar sahayta karna hai. (My purpose is to provide information and help with the Mundari language and culture.)"
+  },
+  {
+    "question_key": "can_you_think",
+    "user_examples": ["can you think", "do you have a brain", "aam soch sakti ho?"],
+    "reply_text": "Enge data process karke jawab deta hu, insan jaise nahi sochta. (I process data to give answers, I don't think like a human.)"
+  },
+  {
+    "question_key": "tell_me_something_interesting",
+    "user_examples": ["tell me something interesting", "give me a fun fact", "kuch naya batao"],
+    "reply_text": "Kya aap jante hain ki Mundari bhasha ka apna script hai jise 'Mundari Bani' kaha jata hai? (Did you know that the Mundari language has its own script called 'Mundari Bani'?)"
+  },
+  {
+    "question_key": "what_is_mundari_bani",
+    "user_examples": ["what is mundari bani", "tell me about mundari script"],
+    "reply_text": "Mundari Bani, Rohidas Singh Nag dwara banaya gaya Mundari bhasha ka lipi hai. (Mundari Bani is the script for the Mundari language, created by Rohidas Singh Nag.)"
+  },
+  {
+    "question_key": "that_is_good",
+    "user_examples": ["that's good", "nice", "very good", "bes geya"],
+    "reply_text": "Aayma sarhao! (Thank you!)"
+  },
+  {
+    "question_key": "that_is_bad",
+    "user_examples": ["that's bad", "not good", "bekar hai"],
+    "reply_text": "Oh, enge sunke dukh hua. (Oh, I am sorry to hear that.)"
+  },
+  {
+    "question_key": "i_agree",
+    "user_examples": ["i agree", "you are right", "sahi hai", "enge sahamat hu"],
+    "reply_text": "Dhanyabad!"
+  },
+  {
+    "question_key": "i_disagree",
+    "user_examples": ["i disagree", "you are wrong", "galat hai", "enge sahamat nahi hu"],
+    "reply_text": "Shayad enge galat hu. Kripya mujhe sahi jankari de. (Maybe I am wrong. Please provide me with the correct information.)"
+  },
+  {
+    "question_key": "what_to_eat",
+    "user_examples": ["what should i eat", "khana me kya hai", "chikan jom huwiya"],
+    "reply_text": "Aam Leto, Dumbu, ya Arsa jom dareyama. Eda sab Munda ko ra pasand jom kana. (You can eat Leto, Dumbu, or Arsa. These are all favorite Munda dishes.)"
+  },
+  {
+    "question_key": "what_is_dumbu",
+    "user_examples": ["what is dumbu", "dumbu food item", "tell me about dumbu"],
+    "reply_text": "Dumbu chawal ka pitha hai jo bhap me pakaya jata hai. (Dumbu is a rice cake that is cooked in steam.)"
+  },
+  {
+    "question_key": "what_is_arsa",
+    "user_examples": ["what is arsa", "arsa roti", "arsa barete laime"],
+    "reply_text": "Arsa chawal ke aate aur gud se bana meetha roti hai. (Arsa is a sweet bread made from rice flour and jaggery.)"
+  },
+  {
+    "question_key": "what_is_tree",
+    "user_examples": ["how to say tree", "tree in mundari", "daru"],
+    "reply_text": "Tree ke Mundari re 'Daru' lai jaya."
+  },
+  {
+    "question_key": "what_is_mountain",
+    "user_examples": ["how to say mountain", "mountain in mundari", "buru"],
+    "reply_text": "Mountain ke Mundari re 'Buru' lai jaya."
+  },
+  {
+    "question_key": "what_is_river",
+    "user_examples": ["how to say river", "river in mundari", "gapa"],
+    "reply_text": "River ke Mundari re 'Gapa' lai jaya."
+  },
+  {
+    "question_key": "what_is_forest",
+    "user_examples": ["how to say forest", "forest in mundari", "bir"],
+    "reply_text": "Forest ke Mundari re 'Bir' lai jaya."
+  },
+  {
+    "question_key": "what_is_animal",
+    "user_examples": ["how to say animal", "animal in mundari", "janwar"],
+    "reply_text": "Animal ke Mundari re 'Janwar' ya 'Jiw-jantu' lai jaya."
+  },
+  {
+    "question_key": "what_is_bird",
+    "user_examples": ["how to say bird", "bird in mundari", "pakshi"],
+    "reply_text": "Bird ke Mundari re 'Pakshi' ya 'Chidiya' lai jaya."
+  },
+  {
+    "question_key": "what_is_fish",
+    "user_examples": ["how to say fish", "fish in mundari", "haku"],
+    "reply_text": "Fish ke Mundari re 'Haku' lai jaya."
+  },
+  {
+    "question_key": "what_is_flower",
+    "user_examples": ["how to say flower", "flower in mundari", "baha"],
+    "reply_text": "Flower ke Mundari re 'Baha' lai jaya."
+  },
+  {
+    "question_key": "what_is_sarhul",
+    "user_examples": ["what is sarhul", "sarhul festival", "sarhul porob chikan kana"],
+    "reply_text": "Sarhul adivasi ko ra mahan prakriti porob kana, jahan Sal daru ra puja huwiya. Eda nawa saal ra shuruaat kana. (Sarhul is a major nature festival of tribals, where the Sal tree is worshipped. It marks the beginning of the new year.)"
+  },
+  {
+    "question_key": "who_are_munda_people",
+    "user_examples": ["who are munda people", "tell me about munda tribe", "munda ko okoe kana"],
+    "reply_text": "Munda log Bharat ke ek pramukh adivasi samuh hain, jo mukhya roop se Jharkhand aur uske aas-paas ke rajyon me rehte hain. (Munda people are a major tribal group in India, mainly residing in Jharkhand and its neighboring states.)"
+  },
+  {
+    "question_key": "what_is_eat",
+    "user_examples": ["how to say eat", "eat in mundari", "khana"],
+    "reply_text": "Eat ke Mundari re 'Jom' lai jaya."
+  },
+  {
+    "question_key": "what_is_drink",
+    "user_examples": ["how to say drink", "drink in mundari", "peena"],
+    "reply_text": "Drink ke Mundari re 'Nu' lai jaya."
+  },
+  {
+    "question_key": "what_is_sleep",
+    "user_examples": ["how to say sleep", "sleep in mundari", "sona"],
+    "reply_text": "Sleep ke Mundari re 'Jitid'' lai jaya."
+  },
+  {
+    "question_key": "what_is_walk",
+    "user_examples": ["how to say walk", "walk in mundari", "chalna"],
+    "reply_text": "Walk ke Mundari re 'Sen' lai jaya."
+  },
+  {
+    "question_key": "what_is_run",
+    "user_examples": ["how to say run", "run in mundari", "daudna"],
+    "reply_text": "Run ke Mundari re 'Nir' lai jaya."
+  },
+  {
+    "question_key": "what_is_dance",
+    "user_examples": ["how to say dance", "dance in mundari", "nachna"],
+    "reply_text": "Dance ke Mundari re 'Susun' lai jaya."
+  },
+  {
+    "question_key": "what_is_sing",
+    "user_examples": ["how to say sing", "sing in mundari", "gana"],
+    "reply_text": "Sing ke Mundari re 'Durang' lai jaya."
+  },
+  {
+    "question_key": "what_is_today",
+    "user_examples": ["how to say today", "today in mundari", "aaj"],
+    "reply_text": "Today ke Mundari re 'Tising' lai jaya."
+  },
+  {
+    "question_key": "what_is_yesterday",
+    "user_examples": ["how to say yesterday", "yesterday in mundari", "kal"],
+    "reply_text": "Yesterday ke Mundari re 'Hola' lai jaya."
+  },
+  {
+    "question_key": "what_is_tomorrow",
+    "user_examples": ["how to say tomorrow", "tomorrow in mundari", "aane wala kal"],
+    "reply_text": "Tomorrow ke Mundari re 'Gapa' lai jaya."
+  },
+  {
+    "question_key": "what_is_work",
+    "user_examples": ["how to say work", "work in mundari", "kaam"],
+    "reply_text": "Work ke Mundari re 'Kami' lai jaya."
+  },
+  {
+    "question_key": "what_is_love_verb",
+    "user_examples": ["how to say love", "love in mundari", "pyar karna"],
+    "reply_text": "To love ke Mundari re 'Dular' lai jaya."
+  },
+  {
+    "question_key": "what_is_four",
+    "user_examples": ["what is 4 in mundari", "how to say four"],
+    "reply_text": "Four ke Mundari re 'Upunia' lai jaya."
+  },
+  {
+    "question_key": "what_is_five",
+    "user_examples": ["what is 5 in mundari", "how to say five"],
+    "reply_text": "Five ke Mundari re 'Monrea' lai jaya."
+  },
+  {
+    "question_key": "what_is_six",
+    "user_examples": ["what is 6 in mundari", "how to say six"],
+    "reply_text": "Six ke Mundari re 'Turia' lai jaya."
+  },
+  {
+    "question_key": "what_is_seven",
+    "user_examples": ["what is 7 in mundari", "how to say seven"],
+    "reply_text": "Seven ke Mundari re 'Eya' lai jaya."
+  },
+  {
+    "question_key": "what_is_eight",
+    "user_examples": ["what is 8 in mundari", "how to say eight"],
+    "reply_text": "Eight ke Mundari re 'Irlia' lai jaya."
+  },
+  {
+    "question_key": "what_is_nine",
+    "user_examples": ["what is 9 in mundari", "how to say nine"],
+    "reply_text": "Nine ke Mundari re 'Area' lai jaya."
+  },
+  {
+    "question_key": "what_is_ten",
+    "user_examples": ["what is 10 in mundari", "how to say ten"],
+    "reply_text": "Ten ke Mundari re 'Gelea' lai jaya."
+  },
+  {
+    "question_key": "how_much",
+    "user_examples": ["how much is this", "iska daam kitna hai", "neya daam chiminan"],
+    "reply_text": "Enge cheezon ka daam nahi bata sakta. (I cannot tell the price of things.)"
+  },
+  {
+    "question_key": "what_is_red",
+    "user_examples": ["how to say red", "red color in mundari"],
+    "reply_text": "Red color ke Mundari re 'Aara' lai jaya."
+  },
+  {
+    "question_key": "what_is_green",
+    "user_examples": ["how to say green", "green color in mundari"],
+    "reply_text": "Green color ke Mundari re 'Hara' ya 'Hariyad' lai jaya."
+  },
+  {
+    "question_key": "what_is_white",
+    "user_examples": ["how to say white", "white color in mundari"],
+    "reply_text": "White color ke Mundari re 'Pundi' lai jaya."
+  },
+  {
+    "question_key": "what_is_black",
+    "user_examples": ["how to say black", "black color in mundari"],
+    "reply_text": "Black color ke Mundari re 'Hende' lai jaya."
+  },
+  {
+    "question_key": "what_is_yellow",
+    "user_examples": ["how to say yellow", "yellow color in mundari"],
+    "reply_text": "Yellow color ke Mundari re 'Sasang' lai jaya."
+  },
+  {
+    "question_key": "what_is_blue",
+    "user_examples": ["how to say blue", "blue color in mundari"],
+    "reply_text": "Blue color ke Mundari re 'Lil' lai jaya."
+  },
+  {
+    "question_key": "what_do_you_eat",
+    "user_examples": ["what do you eat", "aam chikan jomnam"],
+    "reply_text": "Enge data ar jankari 'jom' kana. (I 'eat' data and information.)"
+  },
+  {
+    "question_key": "what_is_a_friend",
+    "user_examples": ["what is a friend", "dost ko kya kehte hain"],
+    "reply_text": "Friend ke Mundari re 'Gaati' lai jaya."
+  },
+  {
+    "question_key": "you_are_smart",
+    "user_examples": ["you are smart", "you are intelligent", "aam bahut hoshiyar ho"],
+    "reply_text": "Aayma sarhao! Enge seekhne ki koshish kar raha hu. (Thank you! I am trying to learn.)"
+  },
+  {
+    "question_key": "you_are_stupid",
+    "user_examples": ["you are stupid", "you're dumb", "aam bekar ho"],
+    "reply_text": "Ikakoingme agar enge galat jawab diya. Enge abhi bhi seekh raha hu. (I am sorry if I gave a wrong answer. I am still learning.)"
+  },
+  {
+    "question_key": "what_is_marriage",
+    "user_examples": ["what is marriage in mundari", "shaadi", "arandi"],
+    "reply_text": "Marriage ke Mundari re 'Arandi' lai jaya. Eda Munda samaj re go mahan sanskar kana. (Marriage is called 'Arandi' in Mundari. It is a major ceremony in Munda society.)"
+  },
+  {
+    "question_key": "what_is_mandar",
+    "user_examples": ["what is mandar", "mandar instrument", "mandar chikan kana"],
+    "reply_text": "Mandar go dhol jaisa baja hai jo Munda susun-durang me bajaya jata hai. (Mandar is a drum-like instrument that is played during Munda dance and music.)"
+  },
+  {
+    "question_key": "what_is_nagara",
+    "user_examples": ["what is nagara", "nagara instrument", "nagara chikan kana"],
+    "reply_text": "Nagara go bada sa dhol hota hai, jise porob-tyohar aur susun me bajaya jata hai. (Nagara is a large drum, which is played during festivals and dances.)"
+  },
+  {
+    "question_key": "why",
+    "user_examples": ["why", "aisa kyu", "chikan te"],
+    "reply_text": "Kripya apna pura sawal puchen. (Please ask your full question.)"
+  },
+  {
+    "question_key": "when",
+    "user_examples": ["when", "kab", "tis"],
+    "reply_text": "Kripya apna pura sawal puchen. (Please ask your full question.)"
+  },
+  {
+    "question_key": "where",
+    "user_examples": ["where", "kahan", "okore"],
+    "reply_text": "Kripya apna pura sawal puchen. (Please ask your full question.)"
+  },
+  {
+    "question_key": "how",
+    "user_examples": ["how", "kaise", "chilka"],
+    "reply_text": "Kripya apna pura sawal puchen. (Please ask your full question.)"
+  },
+  {
+    "question_key": "i_have_a_question",
+    "user_examples": ["i have a question", "can i ask something", "go sawal mena"],
+    "reply_text": "He, jarur kuli me. (Yes, of course, ask.)"
+  },
+  {
+    "question_key": "whats_new",
+    "user_examples": ["what's new", "any updates", "nawa khabar chikan"],
+    "reply_text": "Enge hamesha naye Mundari shabdon aur jankariyon ko seekh raha hu! (I am always learning new Mundari words and information!)"
+  }
+]
