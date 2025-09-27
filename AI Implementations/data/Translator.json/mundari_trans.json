@@ -1,0 +1,1292 @@
+[
+  {
+    "source_text": "Johar",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Hello"
+  },
+  {
+    "source_text": "Hapram?",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How are you?"
+  },
+  {
+    "source_text": "Dhanyabad",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Thank you"
+  },
+  {
+    "source_text": "Barma",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Good"
+  },
+  {
+    "source_text": "Bada",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big"
+  },
+  {
+    "source_text": "Chhota",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small"
+  },
+  {
+    "source_text": "Aja",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Today"
+  },
+  {
+    "source_text": "Koma",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Tomorrow"
+  },
+  {
+    "source_text": "Bade baram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Very good"
+  },
+  {
+    "source_text": "Dular",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Love"
+  },
+  {
+    "source_text": "Hapram aj?",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How are you today?"
+  },
+  {
+    "source_text": "Chanda",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Moon"
+  },
+  {
+    "source_text": "Sita",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Sun"
+  },
+  {
+    "source_text": "Jana",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Person"
+  },
+  {
+    "source_text": "Pani",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Water"
+  },
+  {
+    "source_text": "Roti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Bread"
+  },
+  {
+    "source_text": "Barka",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big one"
+  },
+  {
+    "source_text": "Chhoti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small one"
+  },
+  {
+    "source_text": "Hapram barka",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How are you, elder?"
+  },
+  {
+    "source_text": "Hapram chhoti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How are you, younger?"
+  },
+  {
+    "source_text": "Aj baram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Today is good"
+  },
+  {
+    "source_text": "Bodo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big"
+  },
+  {
+    "source_text": "Sini",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small"
+  },
+  {
+    "source_text": "Hapram barka jana",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How is the elder person?"
+  },
+  {
+    "source_text": "Hapram chhoti jana",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How is the younger person?"
+  },
+  {
+    "source_text": "Barka pani",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "A lot of water"
+  },
+  {
+    "source_text": "Chhoti pani",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Little water"
+  },
+  {
+    "source_text": "Aja sikh",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Learn today"
+  },
+  {
+    "source_text": "Koma sikh",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Learn tomorrow"
+  },
+  {
+    "source_text": "Barka roti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big bread"
+  },
+  {
+    "source_text": "Chhoti roti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small bread"
+  },
+  {
+    "source_text": "Sukha",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Dry"
+  },
+  {
+    "source_text": "Basa",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Wet"
+  },
+  {
+    "source_text": "Hapram sukha",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Are you fine in dry weather?"
+  },
+  {
+    "source_text": "Hapram basa",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Are you fine in wet weather?"
+  },
+  {
+    "source_text": "Barka chanda",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big moon"
+  },
+  {
+    "source_text": "Chhoti chanda",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small moon"
+  },
+  {
+    "source_text": "Barka sita",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big sun"
+  },
+  {
+    "source_text": "Chhoti sita",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small sun"
+  },
+  {
+    "source_text": "Rang",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Color"
+  },
+  {
+    "source_text": "Hapram rang",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How is the color?"
+  },
+  {
+    "source_text": "Barka dular",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Great love"
+  },
+  {
+    "source_text": "Chhoti dular",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Little love"
+  },
+  {
+    "source_text": "Jana baram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Good person"
+  },
+  {
+    "source_text": "Jana chhoti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Young person"
+  },
+  {
+    "source_text": "Aja hapram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How are you today?"
+  },
+  {
+    "source_text": "Koma hapram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How will you be tomorrow?"
+  },
+  {
+    "source_text": "Barka jana dular",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Elder person love"
+  },
+  {
+    "source_text": "Chhoti jana dular",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Young person love"
+  },
+  {
+    "source_text": "Barka hapram baram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Elder is doing very well"
+  },
+  {
+    "source_text": "Chhoti hapram baram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Younger is doing very well"
+  },
+  {
+    "source_text": "Aj baram roti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Bread is good today"
+  },
+  {
+    "source_text": "Koma baram roti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Bread will be good tomorrow"
+  },
+  {
+    "source_text": "Johar",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Hello"
+  },
+  {
+    "source_text": "Hapram?",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How are you?"
+  },
+  {
+    "source_text": "Dhanyabad",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Thank you"
+  },
+  {
+    "source_text": "Aja",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Today"
+  },
+  {
+    "source_text": "Koma",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Tomorrow"
+  },
+  {
+    "source_text": "Barka",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big"
+  },
+  {
+    "source_text": "Chhota",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small"
+  },
+  {
+    "source_text": "Roti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Bread"
+  },
+  {
+    "source_text": "Pani",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Water"
+  },
+  {
+    "source_text": "Sita",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Sun"
+  },
+  {
+    "source_text": "Chanda",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Moon"
+  },
+  {
+    "source_text": "Dular",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Love"
+  },
+  {
+    "source_text": "Basa",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Wet"
+  },
+  {
+    "source_text": "Sukha",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Dry"
+  },
+  {
+    "source_text": "Bodo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big"
+  },
+  {
+    "source_text": "Sini",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small"
+  },
+  {
+    "source_text": "Jana",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Person"
+  },
+  {
+    "source_text": "Barka jana",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Elder person"
+  },
+  {
+    "source_text": "Chhoti jana",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Younger person"
+  },
+  {
+    "source_text": "Aj baram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Today is good"
+  },
+  {
+    "source_text": "Koma baram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Tomorrow will be good"
+  },
+  {
+    "source_text": "Hapram barka",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How is the elder?"
+  },
+  {
+    "source_text": "Hapram chhoti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How is the younger?"
+  },
+  {
+    "source_text": "Barka roti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big bread"
+  },
+  {
+    "source_text": "Chhoti roti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small bread"
+  },
+  {
+    "source_text": "Barka pani",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "A lot of water"
+  },
+  {
+    "source_text": "Chhoti pani",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Little water"
+  },
+  {
+    "source_text": "Aj hapram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How are you today?"
+  },
+  {
+    "source_text": "Koma hapram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How will you be tomorrow?"
+  },
+  {
+    "source_text": "Barka dular",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Great love"
+  },
+  {
+    "source_text": "Chhoti dular",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Little love"
+  },
+  {
+    "source_text": "Barka chanda",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big moon"
+  },
+  {
+    "source_text": "Chhoti chanda",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small moon"
+  },
+  {
+    "source_text": "Barka sita",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big sun"
+  },
+  {
+    "source_text": "Chhoti sita",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small sun"
+  },
+  {
+    "source_text": "Rang",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Color"
+  },
+  {
+    "source_text": "Hapram rang",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How is the color?"
+  },
+  {
+    "source_text": "Barka hapram baram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Elder is doing very well"
+  },
+  {
+    "source_text": "Chhoti hapram baram",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Younger is doing very well"
+  },
+  {
+    "source_text": "Barka jana dular",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Elder person love"
+  },
+  {
+    "source_text": "Chhoti jana dular",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Younger person love"
+  },
+  {
+    "source_text": "Aja sikh",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Learn today"
+  },
+  {
+    "source_text": "Koma sikh",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Learn tomorrow"
+  },
+  {
+    "source_text": "Barka baram roti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big good bread"
+  },
+  {
+    "source_text": "Chhoti baram roti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small good bread"
+  },
+  {
+    "source_text": "Hapram sukha",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Are you fine in dry weather?"
+  },
+  {
+    "source_text": "Hapram basa",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Are you fine in wet weather?"
+  },
+  {
+    "source_text": "Johar barka",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Hello elder"
+  },
+  {
+    "source_text": "Johar chhoti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Hello younger"
+  },
+  {
+    "source_text": "Barka baram jana",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Elder person is good"
+  },
+  {
+    "source_text": "Chhoti baram jana",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Younger person is good"
+  },
+  {
+    "source_text": "Johar",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Hello"
+  },
+  {
+    "source_text": "Hapram?",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How are you?"
+  },
+  {
+    "source_text": "Dhanyabad",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Thank you"
+  },
+  {
+    "source_text": "Aji",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Today"
+  },
+  {
+    "source_text": "Kal",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Tomorrow"
+  },
+  {
+    "source_text": "Sikhna",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "To learn"
+  },
+  {
+    "source_text": "Bada",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Big"
+  },
+  {
+    "source_text": "Chhota",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Small"
+  },
+  {
+    "source_text": "Roti",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Bread"
+  },
+  {
+    "source_text": "Pani",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Water"
+  },
+  {
+    "source_text": "Sita",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Sun"
+  },
+  {
+    "source_text": "Chanda",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Moon"
+  },
+  {
+    "source_text": "Dular",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Love"
+  },
+  {
+    "source_text": "Ghar",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Home"
+  },
+  {
+    "source_text": "Gaon",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Village"
+  },
+  {
+    "source_text": "Bazar",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Market"
+  },
+  {
+    "source_text": "Path",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Road"
+  },
+  {
+    "source_text": "Ped",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Tree"
+  },
+  {
+    "source_text": "Phool",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Flower"
+  },
+  {
+    "source_text": "Fal",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Fruit"
+  },
+  {
+    "source_text": "Bachcha",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Child"
+  },
+  {
+    "source_text": "Maa",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Mother"
+  },
+  {
+    "source_text": "Baba",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Father"
+  },
+  {
+    "source_text": "Bhai",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Brother"
+  },
+  {
+    "source_text": "Didi",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Sister"
+  },
+  {
+    "source_text": "Mitran",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Friend"
+  },
+  {
+    "source_text": "Shikshya",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Education"
+  },
+  {
+    "source_text": "Khel",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Game"
+  },
+  {
+    "source_text": "Sangeet",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Music"
+  },
+  {
+    "source_text": "Nach",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Dance"
+  },
+  {
+    "source_text": "Khushi",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Happiness"
+  },
+  {
+    "source_text": "Dukh",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Sadness"
+  },
+  {
+    "source_text": "Sehat",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Health"
+  },
+  {
+    "source_text": "Rogi",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Patient"
+  },
+  {
+    "source_text": "Aushadhi",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Medicine"
+  },
+  {
+    "source_text": "Bazaar jao",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Go to the market"
+  },
+  {
+    "source_text": "Ghar jao",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Go home"
+  },
+  {
+    "source_text": "Khana khao",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Eat food"
+  },
+  {
+    "source_text": "Pani piyo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Drink water"
+  },
+  {
+    "source_text": "Sote jao",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Go to sleep"
+  },
+  {
+    "source_text": "Utho",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Wake up"
+  },
+  {
+    "source_text": "Kaam karo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Do work"
+  },
+  {
+    "source_text": "Aram karo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Take rest"
+  },
+  {
+    "source_text": "Sikho",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Learn"
+  },
+  {
+    "source_text": "Bolo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Speak"
+  },
+  {
+    "source_text": "Suno",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Listen"
+  },
+  {
+    "source_text": "Dekho",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "See"
+  },
+  {
+    "source_text": "Chalo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Let's go"
+  },
+  {
+    "source_text": "Ruko",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Stop"
+  },
+  {
+    "source_text": "Aao",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Come"
+  },
+  {
+    "source_text": "Jao",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Go"
+  },
+  {
+    "source_text": "Safa karo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Clean"
+  },
+  {
+    "source_text": "Khilao",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Feed"
+  },
+  {
+    "source_text": "Padhai karo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Study"
+  },
+  {
+    "source_text": "Khelna",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Play"
+  },
+  {
+    "source_text": "Aaram se",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Slowly / calmly"
+  },
+  {
+    "source_text": "Tez chalo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Walk fast"
+  },
+  {
+    "source_text": "Johar",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Hello"
+  },
+  {
+    "source_text": "Hapram?",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How are you?"
+  },
+  {
+    "source_text": "Dhanyabad",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Thank you"
+  },
+  {
+    "source_text": "Aji",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Today"
+  },
+  {
+    "source_text": "Kal",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Tomorrow"
+  },
+  {
+    "source_text": "Sikhna",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "To learn"
+  },
+  {
+    "source_text": "Khana",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Food"
+  },
+  {
+    "source_text": "Pina",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "To drink"
+  },
+  {
+    "source_text": "Padhna",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "To study"
+  },
+  {
+    "source_text": "Likhna",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "To write"
+  },
+  {
+    "source_text": "Sunna",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "To listen"
+  },
+  {
+    "source_text": "Bolna",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "To speak"
+  },
+  {
+    "source_text": "Chalna",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "To walk"
+  },
+  {
+    "source_text": "Daudna",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "To run"
+  },
+  {
+    "source_text": "Sona",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "To sleep"
+  },
+  {
+    "source_text": "Uthna",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "To wake up"
+  },
+  {
+    "source_text": "Ghar",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Home"
+  },
+  {
+    "source_text": "Gaon",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Village"
+  },
+  {
+    "source_text": "Shahar",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "City"
+  },
+  {
+    "source_text": "Rasta",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Road"
+  },
+  {
+    "source_text": "Ped",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Tree"
+  },
+  {
+    "source_text": "Phool",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Flower"
+  },
+  {
+    "source_text": "Fal",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Fruit"
+  },
+  {
+    "source_text": "Pankha",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Fan"
+  },
+  {
+    "source_text": "Kursi",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Chair"
+  },
+  {
+    "source_text": "Mez",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Table"
+  },
+  {
+    "source_text": "Darwaza",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Door"
+  },
+  {
+    "source_text": "Khidki",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Window"
+  },
+  {
+    "source_text": "Kapda",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Clothes"
+  },
+  {
+    "source_text": "Joota",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Shoes"
+  },
+  {
+    "source_text": "Topi",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Cap"
+  },
+  {
+    "source_text": "Dhani",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Rich"
+  },
+  {
+    "source_text": "Gareeb",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Poor"
+  },
+  {
+    "source_text": "Achha",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Good"
+  },
+  {
+    "source_text": "Bura",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Bad"
+  },
+  {
+    "source_text": "Garama",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Hot"
+  },
+  {
+    "source_text": "Thanda",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Cold"
+  },
+  {
+    "source_text": "Bachcha",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Child"
+  },
+  {
+    "source_text": "Maa",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Mother"
+  },
+  {
+    "source_text": "Baba",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Father"
+  },
+  {
+    "source_text": "Bhai",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Brother"
+  },
+  {
+    "source_text": "Didi",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Sister"
+  },
+  {
+    "source_text": "Mitran",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Friend"
+  },
+  {
+    "source_text": "Rogi",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Patient"
+  },
+  {
+    "source_text": "Aushadhi",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Medicine"
+  },
+  {
+    "source_text": "Bazaar jao",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Go to the market"
+  },
+  {
+    "source_text": "Ghar jao",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Go home"
+  },
+  {
+    "source_text": "Khana khao",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Eat food"
+  },
+  {
+    "source_text": "Pani piyo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Drink water"
+  },
+  {
+    "source_text": "Sote jao",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Go to sleep"
+  },
+  {
+    "source_text": "Utho",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Wake up"
+  },
+  {
+    "source_text": "Kaam karo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Do work"
+  },
+  {
+    "source_text": "Aram karo",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Take rest"
+  },
+  {
+    "source_text": "Sikho",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "Learn"
+  }
+]

@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+# .env
+
+# Hardhat artifacts
+artifacts/
+cache/
+
+# Optional: TypeScript build outputs
+dist/
