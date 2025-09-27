@@ -1,0 +1,1250 @@
+[
+  {
+    "source_text": "Johar",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Hello"
+  },
+  {
+    "source_text": "Dhanyabad",
+    "source_lang": "Santhali",
+    "target_lang": "Hindi",
+    "translated_text": "धन्यवाद"
+  },
+  {
+    "source_text": "Kula?",
+    "source_lang": "Mundari",
+    "target_lang": "English",
+    "translated_text": "How are you?"
+  },
+  {
+    "source_text": "Baha re",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Good morning"
+  },
+  {
+    "source_text": "Bhor re",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Good night"
+  },
+  {
+    "source_text": "Aba katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Tell me"
+  },
+  {
+    "source_text": "Dular",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Love"
+  },
+  {
+    "source_text": "Hing",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Yes"
+  },
+  {
+    "source_text": "Na",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "No"
+  },
+  {
+    "source_text": "Agom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Friend"
+  },
+  {
+    "source_text": "Lohar",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Blacksmith"
+  },
+  {
+    "source_text": "Baha lagit",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Good afternoon"
+  },
+  {
+    "source_text": "Ajom katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story"
+  },
+  {
+    "source_text": "Hor",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Rice"
+  },
+  {
+    "source_text": "Sok",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Water"
+  },
+  {
+    "source_text": "Ando",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Egg"
+  },
+  {
+    "source_text": "Buru",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Fire"
+  },
+  {
+    "source_text": "Malum",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Know"
+  },
+  {
+    "source_text": "Sajom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Beautiful"
+  },
+  {
+    "source_text": "Jiyom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Live"
+  },
+  {
+    "source_text": "Horkol",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Village"
+  },
+  {
+    "source_text": "Bada",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Big"
+  },
+  {
+    "source_text": "Chhota",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Small"
+  },
+  {
+    "source_text": "Mena",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Child"
+  },
+  {
+    "source_text": "Bari",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "House"
+  },
+  {
+    "source_text": "Harom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Go"
+  },
+  {
+    "source_text": "Aka",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Come"
+  },
+  {
+    "source_text": "Chinta",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Worry"
+  },
+  {
+    "source_text": "Sakha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Tree"
+  },
+  {
+    "source_text": "Bun",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Forest"
+  },
+  {
+    "source_text": "Jal",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Water"
+  },
+  {
+    "source_text": "Ranga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Color"
+  },
+  {
+    "source_text": "Sang",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Together"
+  },
+  {
+    "source_text": "Binti",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Please"
+  },
+  {
+    "source_text": "Dhara",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Earth"
+  },
+  {
+    "source_text": "Anjam",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "End"
+  },
+  {
+    "source_text": "Hapram",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Work"
+  },
+  {
+    "source_text": "Poda",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Go away"
+  },
+  {
+    "source_text": "Katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Talk"
+  },
+  {
+    "source_text": "Sikla",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Learn"
+  },
+  {
+    "source_text": "Baha lagu",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Good day"
+  },
+  {
+    "source_text": "Laka",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Play"
+  },
+  {
+    "source_text": "Horom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Food"
+  },
+  {
+    "source_text": "Gadom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Workplace"
+  },
+  {
+    "source_text": "Barda",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Big river"
+  },
+  {
+    "source_text": "Chini",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Sugar"
+  },
+  {
+    "source_text": "Joma",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Woman"
+  },
+  {
+    "source_text": "Deki",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Man"
+  },
+  {
+    "source_text": "Hirak",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Diamond"
+  },
+  {
+    "source_text": "Rangom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Colorful"
+  },
+  {
+    "source_text": "Kherom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Good"
+  },
+  {
+    "source_text": "Badom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Bad"
+  },
+  {
+    "source_text": "Gach",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Tree"
+  },
+  {
+    "source_text": "Pipiri",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Flower"
+  },
+  {
+    "source_text": "Horkoli",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Village"
+  },
+  {
+    "source_text": "Daka",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "River"
+  },
+  {
+    "source_text": "Bahin",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Sister"
+  },
+  {
+    "source_text": "Bhain",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Brother"
+  },
+  {
+    "source_text": "Ajom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Today"
+  },
+  {
+    "source_text": "Kal",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Tomorrow"
+  },
+  {
+    "source_text": "Buda",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Old"
+  },
+  {
+    "source_text": "Nua",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "New"
+  },
+  {
+    "source_text": "Hapram",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Work"
+  },
+  {
+    "source_text": "Rohom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Food"
+  },
+  {
+    "source_text": "Chur",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Knife"
+  },
+  {
+    "source_text": "Agom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Friend"
+  },
+  {
+    "source_text": "Sangom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Together"
+  },
+  {
+    "source_text": "Binti",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Please"
+  },
+  {
+    "source_text": "Dhora",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Grass"
+  },
+  {
+    "source_text": "Sok",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Water"
+  },
+  {
+    "source_text": "Ando",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Egg"
+  },
+  {
+    "source_text": "Buru",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Fire"
+  },
+  {
+    "source_text": "Malum",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Know"
+  },
+  {
+    "source_text": "Sajom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Beautiful"
+  },
+  {
+    "source_text": "Jiyom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Live"
+  },
+  {
+    "source_text": "Bada",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Big"
+  },
+  {
+    "source_text": "Chhota",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Small"
+  },
+  {
+    "source_text": "Mena",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Child"
+  },
+  {
+    "source_text": "Bari",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "House"
+  },
+  {
+    "source_text": "Harom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Go"
+  },
+  {
+    "source_text": "Aka",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Come"
+  },
+  {
+    "source_text": "Chinta",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Worry"
+  },
+  {
+    "source_text": "Sakha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Tree"
+  },
+  {
+    "source_text": "Bun",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Forest"
+  },
+  {
+    "source_text": "Jal",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Water"
+  },
+  {
+    "source_text": "Ranga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Color"
+  },
+  {
+    "source_text": "Laka",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Play"
+  },
+  {
+    "source_text": "Horom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Food"
+  },
+  {
+    "source_text": "Gadom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Workplace"
+  },
+  {
+    "source_text": "Barda",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Big river"
+  },
+  {
+    "source_text": "Chini",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Sugar"
+  },
+  {
+    "source_text": "Joma",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Woman"
+  },
+  {
+    "source_text": "Deki",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Man"
+  },
+  {
+    "source_text": "Hirak",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Diamond"
+  },
+  {
+    "source_text": "Rangom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Colorful"
+  },
+  {
+    "source_text": "Kherom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Good"
+  },
+  {
+    "source_text": "Badom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Bad"
+  },
+  {
+    "source_text": "Hul",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Rain"
+  },
+  {
+    "source_text": "Sirim",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Sun"
+  },
+  {
+    "source_text": "Chikam",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Cold"
+  },
+  {
+    "source_text": "Tapam",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Hot"
+  },
+  {
+    "source_text": "Gidom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Dog"
+  },
+  {
+    "source_text": "Baidom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Cat"
+  },
+  {
+    "source_text": "Hor",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Rice"
+  },
+  {
+    "source_text": "Siral",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Cloth"
+  },
+  {
+    "source_text": "Ajom sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Today morning"
+  },
+  {
+    "source_text": "Kal sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Tomorrow morning"
+  },
+  {
+    "source_text": "Baha katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Good day"
+  },
+  {
+    "source_text": "Bhor katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Good night"
+  },
+  {
+    "source_text": "Dular jom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Love you"
+  },
+  {
+    "source_text": "Hapram laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Working"
+  },
+  {
+    "source_text": "Horom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Eating"
+  },
+  {
+    "source_text": "Sikla laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Learning"
+  },
+  {
+    "source_text": "Laka laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Playing"
+  },
+  {
+    "source_text": "Jiyom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Living"
+  },
+  {
+    "source_text": "Rohom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Cooking"
+  },
+  {
+    "source_text": "Chur laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Cutting"
+  },
+  {
+    "source_text": "Sangom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Joining together"
+  },
+  {
+    "source_text": "Gadom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Working place"
+  },
+  {
+    "source_text": "Binti katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Request"
+  },
+  {
+    "source_text": "Poda katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Go away"
+  },
+  {
+    "source_text": "Hul laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Raining"
+  },
+  {
+    "source_text": "Sirim laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Sunny"
+  },
+  {
+    "source_text": "Tapam laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Heating"
+  },
+  {
+    "source_text": "Chikam laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Cooling"
+  },
+  {
+    "source_text": "Gidom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Dog is running"
+  },
+  {
+    "source_text": "Baidom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Cat is sleeping"
+  },
+  {
+    "source_text": "Sokal",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Morning"
+  },
+  {
+    "source_text": "Din",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Day"
+  },
+  {
+    "source_text": "Sandhya",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Evening"
+  },
+  {
+    "source_text": "Rat",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Night"
+  },
+  {
+    "source_text": "Buru laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Firing"
+  },
+  {
+    "source_text": "Sok laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Drinking water"
+  },
+  {
+    "source_text": "Hor laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Eating rice"
+  },
+  {
+    "source_text": "Bada laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Big size"
+  },
+  {
+    "source_text": "Chhota laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Small size"
+  },
+  {
+    "source_text": "Mena laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Child is playing"
+  },
+  {
+    "source_text": "Bari laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "House is built"
+  },
+  {
+    "source_text": "Horkol laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Visiting village"
+  },
+  {
+    "source_text": "Daka laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Crossing river"
+  },
+  {
+    "source_text": "Agom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Meeting friend"
+  },
+  {
+    "source_text": "Jiyom sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Living happily"
+  },
+  {
+    "source_text": "Rang laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Coloring"
+  },
+  {
+    "source_text": "Sakha laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Planting tree"
+  },
+  {
+    "source_text": "Bun laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Exploring forest"
+  },
+  {
+    "source_text": "Dhara laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Farming"
+  },
+  {
+    "source_text": "Chini laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Using sugar"
+  },
+  {
+    "source_text": "Joma laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Helping woman"
+  },
+  {
+    "source_text": "Deki laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Helping man"
+  },
+  {
+    "source_text": "Hirak laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Polishing diamond"
+  },
+  {
+    "source_text": "Rangom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Painting colorful"
+  },
+  {
+    "source_text": "Kherom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Doing good"
+  },
+  {
+    "source_text": "Badom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Doing bad"
+  },
+  {
+    "source_text": "Sokal sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Morning time"
+  },
+  {
+    "source_text": "Rat sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Night time"
+  },
+  {
+    "source_text": "Ajom laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Today doing"
+  },
+  {
+    "source_text": "Kal laga",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Tomorrow doing"
+  },
+  {
+    "source_text": "Baha jom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Good morning"
+  },
+  {
+    "source_text": "Bhor jom",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Good night"
+  },
+  {
+    "source_text": "Ajom laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Today's story"
+  },
+  {
+    "source_text": "Kal laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Tomorrow's story"
+  },
+  {
+    "source_text": "Dular laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of love"
+  },
+  {
+    "source_text": "Hapram laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of work"
+  },
+  {
+    "source_text": "Sikla laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of learning"
+  },
+  {
+    "source_text": "Laka laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of play"
+  },
+  {
+    "source_text": "Hor laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of food"
+  },
+  {
+    "source_text": "Rohom laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of cooking"
+  },
+  {
+    "source_text": "Bada laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of something big"
+  },
+  {
+    "source_text": "Chhota laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of something small"
+  },
+  {
+    "source_text": "Mena laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of a child"
+  },
+  {
+    "source_text": "Bari laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of a house"
+  },
+  {
+    "source_text": "Horkol laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of village life"
+  },
+  {
+    "source_text": "Daka laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of river"
+  },
+  {
+    "source_text": "Agom laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of friends"
+  },
+  {
+    "source_text": "Jiyom laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of life"
+  },
+  {
+    "source_text": "Rangom laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of colors"
+  },
+  {
+    "source_text": "Sakha laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of planting trees"
+  },
+  {
+    "source_text": "Bun laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of forest"
+  },
+  {
+    "source_text": "Dhara laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of farming"
+  },
+  {
+    "source_text": "Chini laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of sugar"
+  },
+  {
+    "source_text": "Joma laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of women"
+  },
+  {
+    "source_text": "Deki laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of men"
+  },
+  {
+    "source_text": "Hirak laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of diamonds"
+  },
+  {
+    "source_text": "Kherom laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of goodness"
+  },
+  {
+    "source_text": "Badom laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of badness"
+  },
+  {
+    "source_text": "Hul laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of rain"
+  },
+  {
+    "source_text": "Sirim laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of sun"
+  },
+  {
+    "source_text": "Chikam laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of cold"
+  },
+  {
+    "source_text": "Tapam laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of heat"
+  },
+  {
+    "source_text": "Gidom laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of dogs"
+  },
+  {
+    "source_text": "Baidom laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of cats"
+  },
+  {
+    "source_text": "Sokal laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of morning"
+  },
+  {
+    "source_text": "Din laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of day"
+  },
+  {
+    "source_text": "Sandhya laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of evening"
+  },
+  {
+    "source_text": "Rat laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of night"
+  },
+  {
+    "source_text": "Pipiri laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of flowers"
+  },
+  {
+    "source_text": "Gach laga katha",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Story of trees"
+  },
+  {
+    "source_text": "Horkoli sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Visiting village in morning"
+  },
+  {
+    "source_text": "Daka sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Crossing river in morning"
+  },
+  {
+    "source_text": "Agom sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Meeting friend in morning"
+  },
+  {
+    "source_text": "Jiyom sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Living happily in morning"
+  },
+  {
+    "source_text": "Rangom sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Coloring in morning"
+  },
+  {
+    "source_text": "Sakha sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Planting tree in morning"
+  },
+  {
+    "source_text": "Bun sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Exploring forest in morning"
+  },
+  {
+    "source_text": "Dhara sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Farming in morning"
+  },
+  {
+    "source_text": "Chini sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Using sugar in morning"
+  },
+  {
+    "source_text": "Joma sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Helping woman in morning"
+  },
+  {
+    "source_text": "Deki sibil",
+    "source_lang": "Santhali",
+    "target_lang": "English",
+    "translated_text": "Helping man in morning"
+  }
+]

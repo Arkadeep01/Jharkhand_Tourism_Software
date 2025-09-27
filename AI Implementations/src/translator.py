@@ -12,12 +12,7 @@ def speak(text):
     engine.runAndWait()
 
 def translator(text, src_lang, tgt_lang):
-    """
-    Translate text:
-    - English/Hindi → GPT
-    - Santhali/Mundari (local languages) → MongoDB datasets
-    """
-    local_languages = ["Santhali", "Mundari"]
+    local_languages = ["santhali_trans.json", "mundari_trans.json"]
 
     # Use GPT for English/Hindi translations
     if src_lang in ["English", "Hindi"] or tgt_lang in ["English", "Hindi"]:
@@ -46,13 +41,26 @@ def translator(text, src_lang, tgt_lang):
     return translated
 
 def listen_and_translate(src_lang, tgt_lang, recog_lang_code="en-IN"):
-    """
-    Listen via microphone and translate.
-    recog_lang_code: Google Speech Recognition code (e.g., "en-IN" for English)
-    """
     recognizer = sr.Recognizer()
+
+    # 🔑 Step 1: Wait for wake word "Hey Kyra"
     with sr.Microphone() as source:
-        print("🎤 Listening...")
+        print("🎤 Say 'Hey Kyra' to activate...")
+        while True:
+            audio = recognizer.listen(source)
+            try:
+                trigger = recognizer.recognize_google(audio, language="en-IN").lower()
+                if "hey kyra" in trigger:
+                    speak("👋 Hi, I’m Kyra. I’m ready! Please speak now in " + src_lang)
+                    break
+            except sr.UnknownValueError:
+                continue  # keep listening until "Hey Kyra"
+            except sr.RequestError:
+                return "⚠️ Could not connect to speech recognition service."
+
+    # 🔑 Step 2: Capture user input after activation
+    with sr.Microphone() as source:
+        print("🎤 Listening for input...")
         audio = recognizer.listen(source)
 
     try:
@@ -69,8 +77,3 @@ def listen_and_translate(src_lang, tgt_lang, recog_lang_code="en-IN"):
         return "⚠️ Sorry, I could not understand the audio."
     except sr.RequestError as e:
         return f"⚠️ Could not request results; {e}"
-
-# Example usage
-if __name__ == "__main__":
-    # English → Santhali example
-    listen_and_translate("English", "Santhali", recog_lang_code="en-IN")
