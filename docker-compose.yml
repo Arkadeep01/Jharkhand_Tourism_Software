@@ -1,0 +1,40 @@
+version: "3.8"
+services:
+  mongo:
+    image: mongo:6
+    restart: always
+    ports: ["27017:27017"]
+    volumes:
+      - mongo_data:/data/db
+
+  redis:
+    image: redis:7
+    ports: ["6379:6379"]
+
+  fraud_api:
+    build: ./fraud_service
+    command: uvicorn app:app --host 0.0.0.0 --port 8001 --reload
+    env_file: .env
+    ports: ["8001:8001"]
+    depends_on:
+      - mongo
+      - redis
+
+  fraud_worker:
+    build: ./fraud_service
+    command: python scorer.py
+    env_file: .env
+    depends_on:
+      - mongo
+      - redis
+
+  analytics_api:
+    build: ./analytics_service
+    command: uvicorn app:app --host 0.0.0.0 --port 8002 --reload
+    env_file: .env
+    ports: ["8002:8002"]
+    depends_on:
+      - mongo
+
+volumes:
+  mongo_data:
