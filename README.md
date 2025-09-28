@@ -74,3 +74,4 @@
 | **Meta Facebook** | Secret Key | `701d21b4572b48674c74824d3f2ed18d` |
 | **MongoDB** | Full URI | `mongodb+srv://arkadeepbaidya040903_db_user:GHK0016XK997@tourismai.hak47ed.mongodb.net/?retryWrites=true&w=majority&appName=TourismAI` |
 | **OpenAI** (Chatbot/Translator) | API Key | `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` |
+| **Slack Webhook Url** (Fraud Anomaly) | URL  | `https://hooks.slack.com/services/T0123456789/B1001010101/7IsoQTrixdUtE971O1xQTm4T` |

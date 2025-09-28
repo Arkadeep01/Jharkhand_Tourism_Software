@@ -1,0 +1,51 @@
+version: "3.8"
+
+services:
+  mongo:
+    image: mongo:6
+    container_name: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  redis:
+    image: redis:7
+    container_name: redis
+    ports:
+      - "6379:6379"
+
+  fraud_api:
+    build:
+      context: ./fraud_api
+      dockerfile: Dockerfile
+    container_name: fraud_api
+    ports:
+      - "8000:8000"
+    environment:
+      - MONGO_URI=mongodb://mongo:27017
+      - DB_NAME=fraud_db
+      - SLACK_WEBHOOK_URL=${SLACK_WEBHOOK_URL}
+      - ALERT_SERVICE_URL=${ALERT_SERVICE_URL}
+    depends_on:
+      - mongo
+      - redis
+
+  worker:
+    build:
+      context: ./worker
+      dockerfile: Dockerfile
+    container_name: fraud_worker
+    environment:
+      - MONGO_URI=mongodb://mongo:27017
+      - DB_NAME=fraud_db
+      - SLACK_WEBHOOK_URL=${SLACK_WEBHOOK_URL}
+      - ALERT_SERVICE_URL=${ALERT_SERVICE_URL}
+    depends_on:
+      - mongo
+      - redis
+    command: >
+      sh -c "python scorer.py && python -u ../aggregations/cron_jobs.py"
+
+volumes:
+  mongo_data:

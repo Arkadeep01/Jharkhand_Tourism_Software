@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pymongo
+redis
+scikit-learn
+joblib
+python-dotenv
+pandas
+requests
