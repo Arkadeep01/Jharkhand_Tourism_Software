@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from Eco_Credit_Record.main_routes import router as main_router
+from Profile_Section.main_routes import router as main_router
 
 app = FastAPI(title="Jharkhand Tourism - Eco Credit Rewards")
 

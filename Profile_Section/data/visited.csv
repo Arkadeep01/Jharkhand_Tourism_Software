@@ -1,0 +1,151 @@
+visit_id,date,origin_country,origin_state,age_group,travel_type,duration_days,spending_usd,region_visited,satisfaction_score
+VIS-001,01-08-2025,India,Maharashtra,25-34,Family,7,2100,Jharkhand,4
+VIS-002,15-07-2025,India,Delhi,35-44,Solo,5,1500.5,Jharkhand,5
+VIS-003,10-09-2025,India,Karnataka,45-54,Couple,6,1800,Jharkhand,3
+VIS-004,12-06-2025,India,West Bengal,18-24,Friends,4,1200.75,Jharkhand,4
+VIS-005,25-08-2025,India,Tamil Nadu,35-44,Family,8,2300,Jharkhand,5
+VIS-006,05-07-2025,India,Uttar Pradesh,25-34,Couple,7,2000,Jharkhand,4
+VIS-007,20-07-2025,India,Gujarat,55-64,Solo,6,1600.5,Jharkhand,3
+VIS-008,18-08-2025,India,Rajasthan,35-44,Family,5,1700,Jharkhand,5
+VIS-009,30-07-2025,India,Odisha,18-24,Friends,4,1300.25,Jharkhand,4
+VIS-010,10-08-2025,India,Bihar,25-34,Couple,7,1900,Jharkhand,5
+VIS-011,01-09-2025,India,Madhya Pradesh,35-44,Solo,6,1550,Jharkhand,4
+VIS-012,22-07-2025,India,Kerala,45-54,Family,7,2400.75,Jharkhand,5
+VIS-013,30-06-2025,India,Haryana,25-34,Couple,5,1750,Jharkhand,3
+VIS-014,15-08-2025,India,Jharkhand,35-44,Solo,4,1400,Jharkhand,4
+VIS-015,09-07-2025,India,Punjab,18-24,Friends,6,1250.5,Jharkhand,5
+VIS-016,05-09-2025,India,Chhattisgarh,35-44,Family,7,2100,Jharkhand,4
+VIS-017,25-06-2025,India,Assam,45-54,Couple,5,1650.25,Jharkhand,3
+VIS-018,02-08-2025,India,Goa,25-34,Solo,6,1800,Jharkhand,5
+VIS-019,18-07-2025,India,Delhi,35-44,Family,7,2200.5,Jharkhand,4
+VIS-020,23-08-2025,India,Tamil Nadu,25-34,Friends,4,1350,Jharkhand,3
+VIS-021,12-07-2025,India,Maharashtra,35-44,Couple,5,1900.75,Jharkhand,5
+VIS-022,08-09-2025,India,Uttar Pradesh,45-54,Solo,7,2300,Jharkhand,4
+VIS-023,20-06-2025,India,Karnataka,18-24,Family,6,1700.25,Jharkhand,3
+VIS-024,14-08-2025,India,Rajasthan,35-44,Couple,5,1600,Jharkhand,4
+VIS-025,28-07-2025,India,West Bengal,25-34,Friends,4,1400.5,Jharkhand,5
+VIS-026,03-09-2025,India,Gujarat,35-44,Solo,7,2000,Jharkhand,4
+VIS-027,15-06-2025,India,Odisha,45-54,Family,6,1750.25,Jharkhand,3
+VIS-028,07-08-2025,India,Bihar,25-34,Couple,5,1850,Jharkhand,5
+VIS-029,02-07-2025,India,Madhya Pradesh,35-44,Solo,6,1600.5,Jharkhand,4
+VIS-030,12-09-2025,India,Kerala,18-24,Friends,4,1300,Jharkhand,3
+VIS-031,29-06-2025,India,Haryana,25-34,Family,7,2100.75,Jharkhand,5
+VIS-032,17-08-2025,India,Punjab,35-44,Couple,5,1750,Jharkhand,4
+VIS-033,07-07-2025,India,Chhattisgarh,45-54,Solo,6,1900.5,Jharkhand,3
+VIS-034,11-09-2025,India,Assam,25-34,Family,7,2200,Jharkhand,5
+VIS-035,14-06-2025,India,Goa,35-44,Friends,4,1400.25,Jharkhand,4
+VIS-036,20-08-2025,India,Delhi,18-24,Couple,5,1500,Jharkhand,3
+VIS-037,26-07-2025,India,Tamil Nadu,25-34,Solo,6,1600.5,Jharkhand,5
+VIS-038,07-09-2025,India,Maharashtra,35-44,Family,7,2300,Jharkhand,4
+VIS-039,18-06-2025,India,Uttar Pradesh,45-54,Couple,5,1750.25,Jharkhand,3
+VIS-040,04-08-2025,India,Karnataka,25-34,Friends,6,1950,Jharkhand,5
+VIS-041,04-07-2025,India,Rajasthan,35-44,Solo,4,1400.5,Jharkhand,4
+VIS-042,09-09-2025,India,West Bengal,18-24,Family,7,2100,Jharkhand,5
+VIS-043,21-06-2025,India,Gujarat,25-34,Couple,5,1650.25,Jharkhand,3
+VIS-044,12-08-2025,India,Odisha,35-44,Solo,6,1800,Jharkhand,4
+VIS-045,17-07-2025,India,Bihar,45-54,Friends,4,1300.5,Jharkhand,5
+VIS-046,06-09-2025,India,Madhya Pradesh,25-34,Family,7,2200,Jharkhand,4
+VIS-047,16-06-2025,India,Kerala,35-44,Couple,5,1750.25,Jharkhand,3
+VIS-048,22-08-2025,India,Haryana,25-34,Solo,6,1950,Jharkhand,5
+VIS-049,21-07-2025,India,Punjab,35-44,Family,7,2100.5,Jharkhand,4
+VIS-050,13-09-2025,India,Chhattisgarh,18-24,Friends,4,1400,Jharkhand,5
+VIS-051,05-08-2025,India,Maharashtra,25-34,Family,6,2200,Jharkhand,4
+VIS-052,16-07-2025,India,Delhi,35-44,Solo,5,1600.5,Jharkhand,5
+VIS-053,11-09-2025,India,Karnataka,45-54,Couple,7,1850,Jharkhand,3
+VIS-054,15-06-2025,India,West Bengal,18-24,Friends,5,1250.75,Jharkhand,4
+VIS-055,26-08-2025,India,Tamil Nadu,35-44,Family,8,2350,Jharkhand,5
+VIS-056,06-07-2025,India,Uttar Pradesh,25-34,Couple,6,2050,Jharkhand,4
+VIS-057,21-07-2025,India,Gujarat,55-64,Solo,5,1650.5,Jharkhand,3
+VIS-058,19-08-2025,India,Rajasthan,35-44,Family,6,1750,Jharkhand,5
+VIS-059,31-07-2025,India,Odisha,18-24,Friends,4,1350.25,Jharkhand,4
+VIS-060,11-08-2025,India,Bihar,25-34,Couple,7,1920,Jharkhand,5
+VIS-061,02-09-2025,India,Madhya Pradesh,35-44,Solo,6,1600,Jharkhand,4
+VIS-062,23-07-2025,India,Kerala,45-54,Family,5,2450.75,Jharkhand,5
+VIS-063,01-07-2025,India,Haryana,25-34,Couple,6,1800,Jharkhand,3
+VIS-064,16-08-2025,India,Jharkhand,35-44,Solo,4,1500,Jharkhand,4
+VIS-065,10-07-2025,India,Punjab,18-24,Friends,7,1300.5,Jharkhand,5
+VIS-066,06-09-2025,India,Chhattisgarh,35-44,Family,6,2150,Jharkhand,4
+VIS-067,26-06-2025,India,Assam,45-54,Couple,5,1700.25,Jharkhand,3
+VIS-068,03-08-2025,India,Goa,25-34,Solo,7,1850,Jharkhand,5
+VIS-069,19-07-2025,India,Delhi,35-44,Family,6,2250.5,Jharkhand,4
+VIS-070,24-08-2025,India,Tamil Nadu,25-34,Friends,5,1400,Jharkhand,3
+VIS-071,13-07-2025,India,Maharashtra,35-44,Couple,7,1950.75,Jharkhand,5
+VIS-072,09-09-2025,India,Uttar Pradesh,45-54,Solo,6,2350,Jharkhand,4
+VIS-073,21-06-2025,India,Karnataka,18-24,Family,5,1750.25,Jharkhand,3
+VIS-074,15-08-2025,India,Rajasthan,35-44,Couple,6,1650,Jharkhand,4
+VIS-075,29-07-2025,India,West Bengal,25-34,Friends,4,1420.5,Jharkhand,5
+VIS-076,04-09-2025,India,Gujarat,35-44,Solo,7,2050,Jharkhand,4
+VIS-077,16-06-2025,India,Odisha,45-54,Family,6,1800.25,Jharkhand,3
+VIS-078,08-08-2025,India,Bihar,25-34,Couple,5,1900,Jharkhand,5
+VIS-079,03-07-2025,India,Madhya Pradesh,35-44,Solo,6,1650.5,Jharkhand,4
+VIS-080,13-09-2025,India,Kerala,18-24,Friends,4,1350,Jharkhand,3
+VIS-081,30-06-2025,India,Haryana,25-34,Family,7,2150.75,Jharkhand,5
+VIS-082,18-08-2025,India,Punjab,35-44,Couple,5,1800,Jharkhand,4
+VIS-083,08-07-2025,India,Chhattisgarh,45-54,Solo,6,1950.5,Jharkhand,3
+VIS-084,12-09-2025,India,Assam,25-34,Family,7,2250,Jharkhand,5
+VIS-085,15-06-2025,India,Goa,35-44,Friends,4,1450.25,Jharkhand,4
+VIS-086,21-08-2025,India,Delhi,18-24,Couple,5,1550,Jharkhand,3
+VIS-087,27-07-2025,India,Tamil Nadu,25-34,Solo,6,1650.5,Jharkhand,5
+VIS-088,08-09-2025,India,Maharashtra,35-44,Family,7,2350,Jharkhand,4
+VIS-089,19-06-2025,India,Uttar Pradesh,45-54,Couple,5,1800.25,Jharkhand,3
+VIS-090,05-08-2025,India,Karnataka,25-34,Friends,6,2000,Jharkhand,5
+VIS-091,05-07-2025,India,Rajasthan,35-44,Solo,4,1450.5,Jharkhand,4
+VIS-092,10-09-2025,India,West Bengal,18-24,Family,7,2150,Jharkhand,5
+VIS-093,22-06-2025,India,Gujarat,25-34,Couple,5,1700.25,Jharkhand,3
+VIS-094,13-08-2025,India,Odisha,35-44,Solo,6,1850,Jharkhand,4
+VIS-095,18-07-2025,India,Bihar,45-54,Friends,4,1350.5,Jharkhand,5
+VIS-096,07-09-2025,India,Madhya Pradesh,25-34,Family,7,2250,Jharkhand,4
+VIS-097,17-06-2025,India,Kerala,35-44,Couple,5,1800.25,Jharkhand,3
+VIS-098,23-08-2025,India,Haryana,25-34,Solo,6,2000,Jharkhand,5
+VIS-099,22-07-2025,India,Punjab,35-44,Family,7,2150.5,Jharkhand,4
+VIS-100,14-09-2025,India,Chhattisgarh,18-24,Friends,4,1450,Jharkhand,5
+VIS-101,06-08-2025,India,Maharashtra,25-34,Family,7,2250,Jharkhand,4
+VIS-102,17-07-2025,India,Delhi,35-44,Solo,5,1650.5,Jharkhand,5
+VIS-103,12-09-2025,India,Karnataka,45-54,Couple,6,1900,Jharkhand,3
+VIS-104,16-06-2025,India,West Bengal,18-24,Friends,4,1300.75,Jharkhand,4
+VIS-105,27-08-2025,India,Tamil Nadu,35-44,Family,8,2400,Jharkhand,5
+VIS-106,07-07-2025,India,Uttar Pradesh,25-34,Couple,7,2100,Jharkhand,4
+VIS-107,22-07-2025,India,Gujarat,55-64,Solo,6,1700.5,Jharkhand,3
+VIS-108,20-08-2025,India,Rajasthan,35-44,Family,5,1800,Jharkhand,5
+VIS-109,01-08-2025,India,Odisha,18-24,Friends,4,1400.25,Jharkhand,4
+VIS-110,12-08-2025,India,Bihar,25-34,Couple,7,1950,Jharkhand,5
+VIS-111,03-09-2025,India,Madhya Pradesh,35-44,Solo,6,1650,Jharkhand,4
+VIS-112,24-07-2025,India,Kerala,45-54,Family,7,2500.75,Jharkhand,5
+VIS-113,02-07-2025,India,Haryana,25-34,Couple,5,1850,Jharkhand,3
+VIS-114,17-08-2025,India,Jharkhand,35-44,Solo,4,1550,Jharkhand,4
+VIS-115,11-07-2025,India,Punjab,18-24,Friends,6,1350.5,Jharkhand,5
+VIS-116,07-09-2025,India,Chhattisgarh,35-44,Family,7,2150,Jharkhand,4
+VIS-117,27-06-2025,India,Assam,45-54,Couple,5,1750.25,Jharkhand,3
+VIS-118,04-08-2025,India,Goa,25-34,Solo,6,1900,Jharkhand,5
+VIS-119,20-07-2025,India,Delhi,35-44,Family,7,2300.5,Jharkhand,4
+VIS-120,25-08-2025,India,Tamil Nadu,25-34,Friends,4,1450,Jharkhand,3
+VIS-121,14-07-2025,India,Maharashtra,35-44,Couple,5,2000.75,Jharkhand,5
+VIS-122,10-09-2025,India,Uttar Pradesh,45-54,Solo,7,2400,Jharkhand,4
+VIS-123,22-06-2025,India,Karnataka,18-24,Family,6,1800.25,Jharkhand,3
+VIS-124,16-08-2025,India,Rajasthan,35-44,Couple,5,1700,Jharkhand,4
+VIS-125,30-07-2025,India,West Bengal,25-34,Friends,4,1450.5,Jharkhand,5
+VIS-126,05-09-2025,India,Gujarat,35-44,Solo,7,2100,Jharkhand,4
+VIS-127,17-06-2025,India,Odisha,45-54,Family,6,1850.25,Jharkhand,3
+VIS-128,09-08-2025,India,Bihar,25-34,Couple,5,1950,Jharkhand,5
+VIS-129,04-07-2025,India,Madhya Pradesh,35-44,Solo,6,1700.5,Jharkhand,4
+VIS-130,14-09-2025,India,Kerala,18-24,Friends,4,1400,Jharkhand,3
+VIS-131,01-07-2025,India,Haryana,25-34,Family,7,2200.75,Jharkhand,5
+VIS-132,19-08-2025,India,Punjab,35-44,Couple,5,1800,Jharkhand,4
+VIS-133,09-07-2025,India,Chhattisgarh,45-54,Solo,6,2000.5,Jharkhand,3
+VIS-134,13-09-2025,India,Assam,25-34,Family,7,2300,Jharkhand,5
+VIS-135,16-06-2025,India,Goa,35-44,Friends,4,1500.25,Jharkhand,4
+VIS-136,22-08-2025,India,Delhi,18-24,Couple,5,1600,Jharkhand,3
+VIS-137,28-07-2025,India,Tamil Nadu,25-34,Solo,6,1700.5,Jharkhand,5
+VIS-138,09-09-2025,India,Maharashtra,35-44,Family,7,2400,Jharkhand,4
+VIS-139,20-06-2025,India,Uttar Pradesh,45-54,Couple,5,1850.25,Jharkhand,3
+VIS-140,06-08-2025,India,Karnataka,25-34,Friends,6,2050,Jharkhand,5
+VIS-141,06-07-2025,India,Rajasthan,35-44,Solo,4,1500.5,Jharkhand,4
+VIS-142,11-09-2025,India,West Bengal,18-24,Family,7,2150,Jharkhand,5
+VIS-143,23-06-2025,India,Gujarat,25-34,Couple,5,1750.25,Jharkhand,3
+VIS-144,14-08-2025,India,Odisha,35-44,Solo,6,1900,Jharkhand,4
+VIS-145,19-07-2025,India,Bihar,45-54,Friends,4,1400.5,Jharkhand,5
+VIS-146,08-09-2025,India,Madhya Pradesh,25-34,Family,7,2300,Jharkhand,4
+VIS-147,18-06-2025,India,Kerala,35-44,Couple,5,1800.25,Jharkhand,3
+VIS-148,24-08-2025,India,Haryana,25-34,Solo,6,2050,Jharkhand,5
+VIS-149,23-07-2025,India,Punjab,35-44,Family,7,2200.5,Jharkhand,4
+VIS-150,15-09-2025,India,Chhattisgarh,18-24,Friends,4,1500,Jharkhand,5

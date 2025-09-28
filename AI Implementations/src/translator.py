@@ -51,7 +51,7 @@ def listen_and_translate(src_lang, tgt_lang, recog_lang_code="en-IN"):
             try:
                 trigger = recognizer.recognize_google(audio, language="en-IN").lower()
                 if "hey kyra" in trigger:
-                    speak("👋 Hi, I’m Kyra. I’m ready! Please speak now in " + src_lang)
+                    speak("👋 Hi, I'm Kyra. I'm ready! Please speak now in " + src_lang)
                     break
             except sr.UnknownValueError:
                 continue  # keep listening until "Hey Kyra"
