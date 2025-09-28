@@ -1,0 +1,140 @@
+{
+  "user_id": 1001,
+  "trip_info": {
+    "start_date": "2025-10-15",
+    "end_date": "2025-10-20",
+    "budget": 15000,
+    "group_size": 2,
+    "preferences": [
+      "Temple",
+      "Nature"
+    ],
+    "meal_choice": "Vegetarian",
+    "mobility_needs": "None"
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "base_location": "Ranchi",
+      "places": [
+        {
+          "name": "Hundru Falls",
+          "type": "Nature",
+          "location": "Ranchi",
+          "latitude": 23.3436,
+          "longitude": 85.325,
+          "description": "Scenic waterfall surrounded by forest, ideal for photography and picnics.",
+          "distance_from_base_km": 40,
+          "opening_hours": "6:00 AM - 6:00 PM",
+          "entry_fee": "Free",
+          "rating": 4.6,
+          "accessibility": "Limited"
+        },
+        {
+          "name": "Jonha Falls",
+          "type": "Nature",
+          "location": "Ranchi",
+          "latitude": 23.2833,
+          "longitude": 85.3833,
+          "description": "Also known as Gautamdhara Falls, popular for its natural beauty.",
+          "distance_from_base_km": 45,
+          "opening_hours": "6:00 AM - 6:00 PM",
+          "entry_fee": "Free",
+          "rating": 4.5,
+          "accessibility": "Limited"
+        }
+      ],
+      "events": []
+    },
+    {
+      "day": 2,
+      "base_location": "Ramgarh",
+      "places": [
+        {
+          "name": "Patratu Valley",
+          "type": "Nature",
+          "location": "Patratu",
+          "latitude": 23.6524,
+          "longitude": 85.2842,
+          "description": "Picturesque valley known for its scenic views and winding roads.",
+          "distance_from_base_km": 30,
+          "opening_hours": "Open all day",
+          "entry_fee": "Free",
+          "rating": 4.7,
+          "accessibility": "Limited"
+        }
+      ],
+      "events": []
+    },
+    {
+      "day": 3,
+      "base_location": "Giridih",
+      "places": [
+        {
+          "name": "Parasnath Hills",
+          "type": "Temple",
+          "location": "Giridih",
+          "latitude": 24.1833,
+          "longitude": 86.2833,
+          "description": "One of the most important Jain pilgrimage sites, surrounded by hills.",
+          "distance_from_base_km": 20,
+          "opening_hours": "5:00 AM - 9:00 PM",
+          "entry_fee": "Free",
+          "rating": 4.8,
+          "accessibility": "Moderate"
+        }
+      ],
+      "events": []
+    },
+    {
+      "day": 4,
+      "base_location": "Latehar",
+      "places": [
+        {
+          "name": "Netarhat",
+          "type": "Nature",
+          "location": "Latehar",
+          "latitude": 23.4794,
+          "longitude": 84.2667,
+          "description": "Known as the Queen of Chotanagpur, famous for sunsets and landscapes.",
+          "distance_from_base_km": 35,
+          "opening_hours": "Open all day",
+          "entry_fee": "Free",
+          "rating": 4.7,
+          "accessibility": "Limited"
+        }
+      ],
+      "events": []
+    },
+    {
+      "day": 5,
+      "base_location": "Palamu",
+      "places": [
+        {
+          "name": "Betla National Park",
+          "type": "Nature",
+          "location": "Palamu",
+          "latitude": 23.9167,
+          "longitude": 84.2,
+          "description": "Wildlife sanctuary with elephants, tigers, and historic fort ruins.",
+          "distance_from_base_km": 50,
+          "opening_hours": "6:00 AM - 6:00 PM",
+          "entry_fee": "₹50",
+          "rating": 4.6,
+          "accessibility": "Moderate"
+        }
+      ],
+      "events": [
+        {
+          "event_name": "Jharkhand Food Festival",
+          "location": "Ranchi",
+          "date": "2025-10-05",
+          "venue": "Morabadi Ground",
+          "highlight": "Showcase of Jharkhand cuisine and culture.",
+          "ticket_price": "₹100",
+          "description": "Regional chefs, tastings, and live performances."
+        }
+      ]
+    }
+  ]
+}

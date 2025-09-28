@@ -1,0 +1,154 @@
+district,town,name,type,latitude,longitude,description,opening_hours,entry_fee,accessibility,rating
+ranchi,ranchi,hundru falls,waterfall,23.4497°,85.6667°,"One of the highest waterfalls in Jharkhand, surrounded by lush forests, ideal for nature lovers.",6:00 AM – 6:00 PM,Free,Limited,4.2
+ranchi,ranchi,dassam falls,waterfall,23.1463°,85.4672°,"Scenic waterfall on the Kanchi River, perfect for picnics and photography.",6:00 AM – 6:00 PM,Free,Limited,4.1
+ranchi,ranchi,jonha falls (gautamdhara),waterfall,23.3423°,85.6102°,"Popular waterfall amidst rocky terrain, great for trekking and sightseeing.",6:00 AM – 6:00 PM,Free,Limited,4
+ranchi,ranchi,panchghagh falls,waterfall,22.9454°,85.2566°,"Series of five cascading falls surrounded by greenery, a serene spot for visitors.",6:00 AM – 6:00 PM,Free,Limited,3.9
+ramgarh,ramgarh,sita falls,waterfall,23.34196°,85.6439°,"Picturesque waterfall located in dense forests, ideal for nature enthusiasts.",Not specified,Free,Limited,3.8
+west singhbhum,kiriburu,hirni falls,waterfall,22.80766°,85.36451°,"Beautiful waterfall in a scenic hilly region, attracts trekkers and photographers.",Not specified,Free,Limited,3.7
+ranchi,ranchi,pahari mandir,temple,23.38485°,85.28773°,"Temple situated on a hill offering panoramic views of the city, popular for spiritual visits.",5:30 AM – 8:30 PM,Free,Limited,4.3
+ranchi,ranchi,jagannath temple,temple,23.3173°,85.2810°,"Famous Hindu temple dedicated to Lord Jagannath, visited by devotees year-round.",4:30 AM – 9:00 PM,Free,Limited,4.4
+ranchi,ranchi,dewri temple,temple,23.4875°,85.3833°,"Ancient temple with traditional architecture, significant for local worship.",6:00 AM – 8:00 PM,Free,Limited,4
+ranchi,ranchi,panchmukhi hanuman mandir,temple,23°19'22",85°17'36","Temple dedicated to Lord Hanuman with five-faced idol, religious and cultural importance.",5:00 AM – 9:00 PM,Free,Limited,3.9
+ranchi,ranchi,kanke mahadev temple,temple,23°25'47",85°20'6","Historic temple dedicated to Lord Shiva, set amidst serene surroundings.",5:00 AM – 8:30 PM,Free,Limited,3.8
+ranchi,ranchi,bhadrakali temple (itkhori),temple,24°17'55",85°09'45",Ancient temple in Itkhori known for its religious and archaeological significance.,6:00 AM – 8:00 PM,Free,Limited,4.1
+ranchi,ranchi,rock garden,park,23°24'16.848",85°18'39.456","Man-made garden with sculptures and landscaped pathways, popular for leisure and photography.",6:00 AM – 8:00 PM,Free,Limited,3.7
+ranchi,ranchi,kanke dam,lake/park,23°25'47",85°20'6","Scenic dam surrounded by greenery, ideal for boating and picnics.",Not specified,Free,Limited,3.6
+ranchi,ranchi,ranchi lake,lake,23°22'12",85°18'30","Peaceful lake in the city, popular for evening walks and recreational activities.",6:00 AM – 8:00 PM,Free,Good,3.8
+ranchi,ranchi,birsa zoological park,park,23°27'30",85°27'26","Well-maintained zoo featuring diverse wildlife species, great for family visits.",5:00 AM – 9:00 PM,Likely has fee (?30-100),Good,4.2
+ranchi,ranchi,tagore hill,park,23°27'30",85°27'26","Hilltop park with panoramic views, named after Rabindranath Tagore, perfect for trekking and relaxation.",6:00 AM – 8:00 PM,Free,Limited,4
+ranchi,ranchi,nakshatra van,park,23°24'5",85°20'17","A park with open spaces and flora, suitable for walks, picnics, and nature activities.",6:00 AM – 8:00 PM,Free,Good,3.9
+ranchi,ranchi,patratu valley,hill station/scenic,23°22'53",85°19'15","Scenic valley with hills and greenery, popular for road trips and photography.",Not specified,Free,Limited,4.1
+ranchi,ranchi,budh vihar,temple,23°38'7",85°30'44","Buddhist temple complex with serene ambiance, attracts devotees and tourists.",6:00 AM – 8:00 PM,Free,Limited,3.8
+ranchi,ranchi,tribal research institute and museum,museum,23°20'0",85°19'0","Museum showcasing tribal culture, heritage, and artifacts of Jharkhand.",5:30 AM – 9:00 PM,Likely has fee (?10-50),Good,4
+ranchi,ranchi,ranchi war cemetery,heritage,23°23'56",85°18'50","Historic war cemetery commemorating soldiers, tranquil and educational site.",6:00 AM – 8:00 PM,Free,Limited,3.7
+ranchi,ranchi,birsa smriti park,park,23°21'48",85°20'38","Lush green park dedicated to Birsa Munda, ideal for leisure and recreation.",Not specified,Free,Good,3.8
+ranchi,ranchi,tribal culture centre,museum,23.35°,86.18°,"Center promoting tribal heritage, with exhibitions on local art, crafts, and culture.",8:00 AM – 7:00 PM,Likely has fee (?20-60),Good,4.1
+ranchi,ranchi,ranchi planetarium,park,23.3708°,85.3253°,"Science park with planetarium shows and educational exhibits, popular among students and tourists.",8:00 AM – 6:00 PM,Likely has fee (?40-100),Good,4.3
+ranchi,ranchi,morhabadi maidan,park,23.3958°,85.3278°,"Open ground for public events, fairs, and cultural programs in the heart of the city.",6:00 AM – 7:00 PM,Free,Good,3.6
+ranchi,hotwar,state museum,museum,23.3212°,85.3088°,"Museum displaying artifacts, art, and history of Jharkhand, educational and cultural significance.",9:30 AM – 5:30 PM,Likely has fee (?10-50),Good,4
+singhbhum east,jamshedpur,jubilee park,park,22.81263°,86.19590°,"Iconic urban park with landscaped gardens, fountains, and recreational areas, popular for family outings.",8:00 AM – 6:00 PM,Free,Good,4.4
+singhbhum east,jamshedpur,sir dorabji tata park,park,22.80510°,86.18956°,"Lush green park named after Dorabji Tata, ideal for relaxation and morning walks.",8:00 AM – 7:00 PM,Free,Good,4
+singhbhum east,jamshedpur,jayanti sarovar,lake,22.80975°,86.18775°,"Scenic lake in the city, frequented for boating and picnics.",Not specified,Free,Good,3.9
+singhbhum east,jamshedpur,bhatia park,park,22.80726°,86.15225°,"Well-maintained park with open spaces, suitable for leisure and casual strolls.",8:00 AM – 6:00 PM,Free,Good,3.7
+singhbhum east,jamshedpur,dimna lake,lake,22.863672°,86.262838°,"Large reservoir surrounded by hills, popular for boating, fishing, and bird watching.",10:00 AM – 5:00 PM,Free,Limited,4.1
+singhbhum east,jamshedpur,tata steel zoological park,park,22.814610°,86.195925°,"Zoo with diverse wildlife species, ideal for educational visits and family trips.",11:00 AM – 4:30 PM,Likely has fee (?30-80),Good,4.2
+singhbhum east,jamshedpur,dalma wildlife sanctuary,wildlife,22.8667°,86.2667°,"Protected forest area home to elephants, tigers, and other wildlife, attracts trekkers and nature lovers.",Not specified,Likely has fee (?50-150),Limited,4
+singhbhum east,jamshedpur,rivers meet (domuhani),scenic,22.81306°,86.16583°,"Confluence of rivers Subarnarekha and Kharkai, a serene spot for photography and sightseeing.",6:00 AM – 9:00 PM,Free,Limited,3.8
+singhbhum east,jamshedpur,bhuvaneshwari temple,temple,22.777589°,86.257247°,Popular Hindu temple known for its spiritual significance and architecture.,6:00 AM – 9:00 PM,Free,Limited,4.1
+singhbhum east,jamshedpur,rankini mandir (kadma),temple,22.7836°,86.1950°,"Historic temple in Kadma area, visited by local devotees.",6:00 AM – 7:00 PM,Free,Limited,3.9
+singhbhum east,jamshedpur,laxminarayan temple,temple,22.7840°,86.1750°,"Temple dedicated to Lord Vishnu, important for religious worship.",Not specified,Free,Limited,3.8
+singhbhum east,jamshedpur,st. mary's church (bistupur),temple/church,22.8021°,86.1954°,"Historic church with beautiful architecture, visited for spiritual and cultural significance.",6:00 AM – 7:00 PM,Free,Limited,3.7
+singhbhum east,jamshedpur,russi modi centre of excellence,heritage,22.80965°,86.18862°,"Heritage building used for educational and cultural events, notable for its architecture.",Not specified,Not specified,Good,3.6
+singhbhum east,jamshedpur,keenan stadium,sports,22.80575°,86.19154°,"Major sports stadium hosting cricket and other events, popular among sports enthusiasts.",Not specified,Free,Good,3.8
+singhbhum east,jamshedpur,bistupur market,market,22.791389°,86.180556°,"Bustling commercial area with shops, restaurants, and local attractions.",Not specified,Free,Good,4
+singhbhum east,jamshedpur,sakchi market,market,22.805182°,86.202282°,"Busy shopping hub with local stores and eateries, popular with residents and tourists.",Not specified,Free,Good,3.9
+singhbhum east,jamshedpur,p&m hi-tech city centre mall,shopping,22.784906°,86.179873°,"Modern shopping mall with retail outlets, entertainment, and food courts.",Not specified,Free,Good,3.7
+deoghar,deoghar,baidyanath temple,temple,24.49250°,86.70000°,"Famous pilgrimage site dedicated to Lord Shiva, attracts devotees from across India.",Not specified,Free,Limited,4.8
+deoghar,deoghar,baidyanath dham,temple,24.48000°,86.695175°,"Major religious complex with ancient temples, one of the twelve Jyotirlingas.",Not specified,Free,Limited,4.7
+deoghar,deoghar,basukinath temple,temple,24.39445°,87.08644°,Prominent Shiva temple known for festivals and spiritual importance.,10:00 AM – 6:00 PM,Free,Limited,4.5
+deoghar,deoghar,naulakha mandir,temple,24.47740°,86.708094°,"Historic temple with traditional architecture, popular for local worship.",Not specified,Free,Limited,4.2
+deoghar,deoghar,ramakrishna mission vidyapith,heritage,24.50486°,86.69615°,"Educational and cultural institution established by Ramakrishna Mission, with heritage significance.",Not specified,Free,Limited,3.9
+deoghar,deoghar,rikhia yogashram,heritage,24.54°,86.74°,Known for retreats and yoga programs.,Not specified,Free,Limited,3.8
+deoghar,deoghar,nandan pahar,hill station/scenic,24.504723°,86.678022°,"Scenic hill with panoramic views, ideal for trekking and sightseeing.",Not specified,Free,Limited,4.1
+deoghar,deoghar,trikut pahar,hill station/scenic,24.4853°,86.8464°,"Popular hill station with temples and breathtaking views, attracts pilgrims and tourists.",Not specified,Free,Limited,4.3
+deoghar,deoghar,mayurakshi river,river,24.1575°,87.2844°,"Scenic river ideal for boating, picnics, and nature photography.",Not specified,Free,Limited,3.7
+deoghar,deoghar,shivganga,river,24.4950°,86.7025°,"River with religious significance, often visited during festivals and rituals.",Not specified,Free,Limited,3.8
+deoghar,deoghar,tapovan,heritage,24.4511°,86.7511°,Heritage site known for spiritual retreats and natural beauty.,Not specified,Free,Limited,3.9
+deoghar,deoghar,ajodhya hills,hill station/scenic,23.17806°,86.04655°,"Hilly region with lush greenery and scenic views, popular for trekking and weekend getaways.",Not specified,Free,Limited,4
+dhanbad,dhanbad,maithon dam,lake,23.850278°,86.777778°,"Large dam and reservoir offering boating, picnic spots, and scenic views.",Not specified,Free,Limited,4.1
+dhanbad,dhanbad,panchet dam,lake,23.6820°,86.7476°,"Beautiful dam surrounded by hills, popular for nature lovers and photography.",Not specified,Free,Limited,4
+dhanbad,dhanbad,katras lake,lake,23.797520°,86.298340°,"Urban lake with boating facilities, visited by locals and tourists for relaxation.",Not specified,Free,Good,3.8
+dhanbad,dhanbad,topchanchi wildlife sanctuary,wildlife,23.90381°,86.19792°,"Protected forest area with diverse flora and fauna, popular for trekking and wildlife enthusiasts.",Not specified,Likely has fee (?40-100),Limited,3.9
+dhanbad,dhanbad,bhatinda falls,waterfall,23.778°,86.283°,"Scenic waterfall surrounded by greenery, ideal for picnics and nature photography.",Not specified,Free,Limited,3.7
+dhanbad,dhanbad,shakti mandir,temple,23.7667°,86.2833°,"Famous local temple dedicated to Shakti, visited for religious rituals and festivals.",Not specified,Free,Limited,4
+dhanbad,dhanbad,lillori sthan mandir,temple,23.7667°,86.2833°,Historic temple known for its spiritual significance in the region.,Not specified,Free,Limited,3.9
+dhanbad,dhanbad,bhuvaneshwari temple,temple,22.798°,86.184°,"Popular Hindu temple, visited by devotees for blessings and festivals.",Not specified,Free,Limited,3.8
+dhanbad,dhanbad,kalyaneshwari temple,temple,23.77722°,86.82833°,"Ancient temple attracting pilgrims and tourists, known for its religious importance.",Not specified,Free,Limited,4.2
+dhanbad,dhanbad,birsa munda park,park,23.4618°,85.4532°,"Urban park with open spaces and walking trails, ideal for relaxation and leisure activities.",Not specified,Free,Good,3.7
+dhanbad,dhanbad,indian school of mines (ism),heritage,23.8144°,86.4412°,"Historic educational institution, renowned for mining studies and heritage architecture.",9:30 AM – 4:30 PM,Not specified,Limited,3.8
+dhanbad,dhanbad,charak pathar,heritage,23.8°,86.28°,"Rock formation site with historical significance, popular among hikers and photographers.",Not specified,Free,Limited,3.6
+hazaribagh,hazaribagh,hazaribagh national park,wildlife,24.3°,85.5°,"Large wildlife sanctuary home to tigers, elephants, and other species, attracting nature lovers.",6:00 AM – 8:00 PM,Likely has fee (?50-200 + safari charges),Limited,4.3
+hazaribagh,hazaribagh,canary hill,hill station/scenic,24.0°,85.4°,"Scenic hill offering panoramic views, ideal for trekking and sightseeing.",Not specified,Free,Limited,3.9
+hazaribagh,hazaribagh,hazaribagh lake,lake,24.0°,85.4°,"Urban lake surrounded by greenery, perfect for picnics and leisure.",6:00 AM – 8:00 PM,Free,Good,3.8
+hazaribagh,hazaribagh,hazaribagh wildlife sanctuary,wildlife,24.3°,85.5°,"Protected forest area with diverse flora and fauna, popular for wildlife exploration.",5:00 AM – 9:00 PM,Likely has fee (?40-150),Limited,4.1
+hazaribagh,hazaribagh,rajrappa temple (chinnamasta),temple,23.37°,85.57°,"Famous temple dedicated to Goddess Chinnamasta, a significant pilgrimage site.",Not specified,Free,Limited,4.6
+hazaribagh,hazaribagh,bhadrakali temple,temple,24.59°,85.92°,"Historic temple dedicated to Goddess Bhadrakali, important for local worship.",9:30 AM – 4:30 PM,Free,Limited,4
+hazaribagh,hazaribagh,surajkund hot spring,scenic,23.875°,85.68°,"Natural hot spring, known for its scenic beauty and health benefits.",Not specified,Free,Limited,3.7
+hazaribagh,hazaribagh,suryakund,scenic,23.875°,85.68°,"Scenic water body ideal for picnics, relaxation, and photography.",Not specified,Free,Limited,3.6
+hazaribagh,hazaribagh,isko village (rock art),heritage,23.95°,85.55°,"Village famous for ancient rock art, significant for history and archaeology enthusiasts.",Not specified,Free,Limited,3.8
+hazaribagh,hazaribagh,hazaribagh fort,heritage,24.0°,85.4°,Historic fort with architectural and cultural significance.,Not specified,Likely has fee (?10-30),Limited,3.7
+hazaribagh,hazaribagh,konar dam,lake,23.85°,85.85°,Large dam providing water and recreational activities like boating and picnics.,Not specified,Free,Limited,3.9
+hazaribagh,hazaribagh,urwan tourist complex,park,23.649°,86.001°,"Tourist complex with landscaped gardens, leisure facilities, and picnic spots.",6:00 AM – 8:00 PM,Free,Limited,3.8
+bokaro,bokaro,garga dam,lake,23.758°,85.945°,"Reservoir surrounded by scenic hills, popular for fishing, boating, and relaxation.",Not specified,Free,Limited,3.9
+bokaro,bokaro,jawaharlal nehru biological park,park,23.678°,86.151°,"Well-maintained biological park with diverse flora and fauna, ideal for family visits.",Not specified,Likely has fee (?20-70),Limited,4.1
+bokaro,bokaro,city park,park,23.673°,86.153°,"Urban park with recreational facilities, walking paths, and greenery.",Not specified,Free,Limited,3.7
+bokaro,bokaro,tenughat dam,lake,23.664°,85.989°,"Large dam and reservoir surrounded by scenic hills, popular for picnics and photography.",Not specified,Free,Limited,3.8
+bokaro,bokaro,ram mandir,temple,23.674°,86.154°,"Local Hindu temple dedicated to Lord Ram, visited by devotees.",9:00 AM – 5:00 PM,Free,Limited,3.8
+bokaro,bokaro,aaiyappa mandir,temple,23.675°,86.152°,"Temple dedicated to Lord Ayyappa, significant for religious worship and festivals.",Not specified,Free,Limited,3.7
+bokaro,bokaro,chas,heritage,23.655°,86.151°,"Historical area of Bokaro, known for local heritage and landmarks.",Not specified,Free,Limited,3.6
+bokaro,bokaro,bokaro steel plant,heritage,23.678°,86.167°,"Industrial heritage site, major steel plant with historical and economic significance.",Not specified,Not specified,Limited,3.5
+bokaro,bokaro,mohan kumar mangalam stadium,sports,23.676°,86.156°,"Sports stadium hosting local and national events, popular for sports enthusiasts.",Not specified,Free,Good,3.8
+bokaro,bokaro,siwandih,heritage,23.671°,86.155°,Area with historical and cultural importance in Bokaro.,Not specified,Free,Limited,3.6
+giridih,giridih,parasnath hills,hill station/scenic,23.852°,86.699°,"Famous hill station and pilgrimage site, offering trekking opportunities and panoramic views.",Not specified,Free,Limited,4.4
+giridih,giridih,shikharji,temple,23.852°,86.699°,"Important Jain pilgrimage site located on Parasnath hills, visited by devotees.",Not specified,Free,Limited,4.5
+giridih,giridih,usri falls,waterfall,23.682°,86.325°,"Picturesque waterfall surrounded by rocky terrain, ideal for nature lovers and photography.",Not specified,Free,Limited,3.9
+giridih,giridih,khandoli park and dam,park,23.639°,86.427°,"Scenic park with dam, boating facilities, and recreational areas.",Not specified,Free,Limited,4
+giridih,giridih,rajeera hill,hill station/scenic,23.784°,86.227°,"Hill offering panoramic views and trekking opportunities, popular with tourists.",Not specified,Free,Limited,3.8
+giridih,giridih,kharagpur falls,waterfall,23.708°,86.198°,"Serene waterfall set amidst greenery, ideal for picnics and nature photography.",Not specified,Free,Limited,3.7
+giridih,giridih,harihar dham,temple,23.756°,86.168°,"Famous temple dedicated to Lord Harihar, important for local religious practices.",Not specified,Free,Limited,4.1
+giridih,giridih,surya mandir,temple,23.754°,86.167°,"Temple dedicated to the Sun God, visited during festivals and rituals.",Not specified,Free,Limited,3.9
+giridih,giridih,jharkhandi dham,temple,23.752°,86.165°,"Religious site attracting devotees, significant for local culture and worship.",8:00 AM – 6:00 PM,Free,Limited,4
+giridih,giridih,devari temple,temple,23.780°,86.290°,"Local temple visited by devotees, known for its spiritual significance.",Not specified,Free,Limited,3.8
+giridih,giridih,madhuvan giridih,heritage,24.183°,86.300°,"Historic heritage site with cultural importance, popular among tourists.",Not specified,Free,Limited,3.7
+dumka,dumka,massanjore dam,lake,24.104°,87.310°,"Large dam and reservoir surrounded by scenic hills, ideal for picnics and boating.",Not specified,Free,Limited,4
+dumka,dumka,tata jharia waterfalls,waterfall,23.795°,86.413°,Picturesque waterfall popular for nature walks and photography.,Not specified,Free,Limited,3.8
+dumka,dumka,shristi hill park,park,22.816°,86.197°,Urban park with landscaped areas and recreational facilities.,Not specified,Free,Good,3.7
+dumka,dumka,kurwa park,park,22.814°,86.192°,"Community park ideal for leisure, walking, and family visits.",8:00 AM – 6:00 PM,Free,Good,3.6
+dumka,dumka,ram jharna,waterfall,23.780°,86.300°,"Beautiful waterfall surrounded by greenery, ideal for sightseeing.",Not specified,Free,Limited,3.7
+dumka,dumka,malooti temple,temple,23.678°,86.152°,Historic local temple visited by devotees for worship.,Not specified,Free,Limited,3.8
+dumka,dumka,baba basukinath dham,temple,24.394°,87.086°,"Famous pilgrimage site dedicated to Lord Shiva, attracting devotees across the region.",Not specified,Free,Limited,4.3
+latehar,netarhat,netarhat hill station,hill station/scenic,23.611°,84.516°,"Popular hill station with scenic views, trekking trails, and nature walks.",Not specified,Free,Limited,4.2
+latehar,netarhat,netarhat sunrise point,scenic,23.611°,84.516°,Famous viewpoint to witness breathtaking sunrises over the hills.,6:00 AM – 8:00 PM,Free,Limited,4.3
+latehar,netarhat,netarhat sunset point,scenic,23.612°,84.517°,Scenic point to enjoy stunning sunsets and panoramic views.,5:30 AM – 9:00 PM,Free,Limited,4.2
+latehar,netarhat,magnolia sunset point,scenic,23.850°,84.980°,"Sunset viewpoint in a hilly area, known for picturesque landscapes.",Not specified,Free,Limited,3.9
+latehar,netarhat,upper ghaghri waterfalls,waterfall,23.849°,84.982°,"Beautiful waterfall with lush surroundings, ideal for trekking and photography.",Not specified,Not specified,Limited,4
+latehar,netarhat,lower ghaghri waterfalls,waterfall,23.612°,84.516°,"Serene waterfall set amidst forested hills, attracts nature lovers.",Not specified,Free,Limited,3.8
+latehar,netarhat,netarhat residential school,heritage,23.617°,84.521°,Historic school building with heritage architecture.,Not specified,Free,Limited,3.9
+latehar,netarhat,koel view point,scenic,23.520°,84.900°,Viewpoint offering panoramic views of the Koel River and surrounding landscapes.,Not specified,Free,Limited,3.9
+latehar,netarhat,sadni falls,waterfall,23.473°,84.947°,Scenic waterfall located in a hilly forest area.,Not specified,Likely has fee (?30-70),Limited,3.8
+latehar,latehar,lodh falls,waterfall,24.010°,84.920°,"One of the highest waterfalls in Jharkhand, surrounded by lush forests.",Not specified,Likely has fee (?60-250 + safari/elephant rides),Limited,4.1
+latehar,mahuadanr,mahuadanr wolf sanctuary,wildlife,23.791°,83.875°,"Sanctuary dedicated to wolves and other wildlife, ideal for nature enthusiasts.",Not specified,Likely has fee (?100-300),Limited,3.7
+palamu,betla,betla national park,wildlife,23.889°,84.080°,"Famous wildlife sanctuary home to tigers, elephants, and other animals, popular for safaris.",Not specified,Likely has fee (?200-500),Limited,4.2
+palamu,betla,palamu tiger reserve,wildlife,23.791°,83.875°,Tiger reserve offering guided tours and wildlife spotting experiences.,Not specified,Likely has fee (?200-500),Limited,4.1
+palamu,betla,elephant rides in betla,wildlife/experience,23.791°,83.875°,Tourist experience offering elephant rides in the park area.,Not specified,Free,Limited,3.9
+palamu,betla,safari trails & elephant rides,wildlife/experience,23.791°,83.875°,Wildlife safari and elephant ride experiences in Betla National Park.,Not specified,Free,Limited,4
+palamu,betla,sal forest areas,wildlife,23.790°,83.880°,"Dense Sal forests rich in flora and fauna, popular with nature lovers.",Not specified,Free,Limited,3.8
+palamu,betla,betla hills,hill station/scenic,23.783°,83.880°,"Hilly region offering trekking, scenic views, and wildlife spotting.",Not specified,Free,Limited,3.9
+palamu,betla,hathikund falls,waterfall,23.474°,84.948°,"Waterfall set amidst forested hills, ideal for photography and trekking.",Not specified,Free,Limited,3.7
+palamu,betla,lodh river waterfalls,waterfall,23.890°,84.085°,"Scenic waterfalls on Lodh River, attracting tourists and nature enthusiasts.",Not specified,Likely has fee (?15-40),Limited,3.8
+palamu,betla,palamu waterfalls,waterfall,23.890°,84.085°,"Beautiful waterfalls in the Palamu area, surrounded by greenery.",Not specified,Free,Limited,3.7
+palamu,betla,palamu fort,heritage,23.837°,84.045°,Historic fort with cultural and architectural significance.,Not specified,Likely has fee (?10-40),Limited,3.8
+palamu,betla,tribal villages near betla,cultural,23.837°,84.045°,Cultural experience visiting local tribal villages and traditional lifestyles.,Not specified,Free,Limited,3.9
+palamu,betla,betla museum / park interpretive center,museum,23.837°,84.045°,Museum and interpretive center showcasing local wildlife and heritage.,Not specified,Free,Limited,3.7
+palamu,betla,sunrise and sunset points in betla hills,scenic,22.6464°,86.4045°,Scenic viewpoints for sunrises and sunsets in Betla hills.,9:00 AM – 5:00 PM,Free,Limited,3.8
+east singhbhum,ghatshila,burudi lake,lake,22.5795°,86.4822°,"Peaceful lake surrounded by hills, ideal for picnics and relaxation.",Not specified,Free,Limited,3.8
+east singhbhum,ghatshila,rankini temple,temple,22.6464°,86.4045°,Popular local temple visited for worship and festivals.,Not specified,Free,Limited,3.9
+east singhbhum,ghatshila,galudih dam,lake,22.6464°,86.4045°,"Reservoir with scenic views, suitable for picnics and leisure.",Not specified,Free,Limited,3.7
+east singhbhum,ghatshila,fuldungri hill,hill station/scenic,22.6464°,86.4045°,Hilly region offering panoramic views and trekking opportunities.,Not specified,Not specified,Limited,3.8
+east singhbhum,ghatshila,chota pul,hill station/scenic,22.6464°,86.4045°,Scenic hill with opportunities for nature walks and photography.,Not specified,Free,Limited,3.7
+east singhbhum,ghatshila,ghatshila rajbari,heritage,23.670°,85.280°,Historic royal palace with cultural and architectural significance.,Not specified,Free,Limited,3.8
+ramgarh,patratu,patratu valley,hill station/scenic,22.108°,85.290°,"Scenic valley known for hills, waterfalls, and panoramic views.",Not specified,Likely has fee (?40-100),Limited,4.1
+west singhbhum,kiriburu,kiriburu hills,hill station/scenic,22.250°,85.100°,Hilly area known for mining and scenic landscapes.,Not specified,Free,Limited,3.7
+west singhbhum,saranda,saranda forest,wildlife,24.250°,87.170°,"Dense forest area, home to elephants and other wildlife, ideal for nature trekking.",Not specified,Likely has fee (?40-100),Limited,3.9
+dumka,maluti,maluti temples,temple,23.250°,84.700°,Cluster of ancient temples with architectural and religious significance.,Not specified,Free,Limited,4
+gumla,palkot,palkot wildlife sanctuary,wildlife,25.050°,87.840°,"Protected forest area with diverse flora and fauna, popular for wildlife tours.",Not specified,Likely has fee (?30-80),Limited,3.8
+sahebganj,rajmahal,rajmahal hills,hill station/scenic,24.326°,87.581°,Scenic hills with historic significance and trekking opportunities.,Not specified,Free,Limited,3.9
+sahebganj,rajmahal,udhwa lake bird sanctuary,wildlife,23.870°,84.190°,"Important bird sanctuary with diverse avian species, attracts bird watchers.",Not specified,Likely has fee (?15-40),Limited,3.8
+latehar,latehar,sanskritik jharna,waterfall,24.300°,87.150°,"Cultural waterfall site, visited for scenic beauty and local heritage.",Not specified,Likely has fee (?20-50),Limited,3.7
+godda,panra,panra fort,heritage,25.050°,87.840°,"Historic fort with architectural significance, popular among tourists.",Not specified,Likely has fee (?25-60),Limited,3.8
+sahebganj,rajmahal,fossil park,heritage,24.326°,87.581°,"Park showcasing ancient fossils, significant for education and tourism.",Not specified,Free,Limited,3.9
+sahebganj,rajmahal,nagi & nakti dam bird sanctuaries,wildlife,22.580°,85.320°,"Bird sanctuaries attracting diverse species, ideal for bird watching.",Not specified,Free,Limited,3.7
+chaibasa,chaibasa,seasonal tribal culture fairs & art villages,cultural,24.250°,87.250°,Cultural fairs and art villages showcasing local tribal traditions.,Not specified,Free,Limited,3.8
+dumka,dumka,seasonal tribal culture fairs & art villages,cultural,23.250°,85.250°,Local fairs and art exhibitions highlighting tribal culture and arts.,9:00 AM – 5:00 PM,Not specified,Limited,3.7
+gumla,gumla,seasonal tribal culture fairs & art villages,cultural,23.940°,86.740°,"Tribal cultural fairs and village art events, popular among tourists.",Not specified,Not specified,Limited,3.6
+singhbhum east,musabani,musabani mines,heritage,22.35°,86.5°,Historic mining site with industrial heritage significance.,Not specified,Not specified,Limited,3.5

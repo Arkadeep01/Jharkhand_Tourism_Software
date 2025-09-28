@@ -1,0 +1,101 @@
+user_id,interests,budget,travel_dates,travel_dates,mobility_needs,preferred_language,meal_choice
+1,"Waterfalls, Temples, Nature",5000,2024-10-15 to 2024-10-20,2,No restrictions,Hindi,Vegetarian
+2,"Wildlife, Adventure, Photography",8000,2024-11-01 to 2024-11-07,4,Mobility assistance,Hindi,Non-vegetarian
+3,"Cultural festivals, Local markets, Food",3000,2024-12-20 to 2024-12-25,1,No restrictions,English,Vegetarian
+4,"Trekking, Nature, Waterfalls",6000,2025-01-05 to 2025-01-10,3,No mobility issues,Hindi,Vegetarian
+5,"Temples, Heritage sites, History",7000,2025-02-10 to 2025-02-15,2,No restrictions,Hindi,Non-vegetarian
+6,"Adventure sports, Rock climbing, Paragliding",12000,2025-03-01 to 2025-03-05,1,No mobility issues,English,Vegetarian
+7,"Wildlife safari, Bird watching, Nature",9000,2025-04-05 to 2025-04-10,4,Mobility assistance,Hindi,Non-vegetarian
+8,"Cultural events, Dance performances, Music",4000,2025-05-12 to 2025-05-15,2,No restrictions,Hindi,Vegetarian
+9,"Photography, Landscapes, Nature",6500,2025-06-18 to 2025-06-22,1,No mobility issues,English,Vegetarian
+10,"Religious sites, Pilgrimage, Temples",3500,2025-07-25 to 2025-07-30,3,No restrictions,Hindi,Non-vegetarian
+11,"Waterfalls, Nature walks, Scenic views",5500,2025-08-10 to 2025-08-15,2,Mobility assistance,Hindi,Vegetarian
+12,"Adventure, Trekking, Camping",10000,2025-09-05 to 2025-09-10,4,No mobility issues,English,Non-vegetarian
+13,"Cultural heritage, Museums, History",4500,2025-10-12 to 2025-10-18,2,No restrictions,Hindi,Vegetarian
+14,"Wildlife, Nature, Photography",8500,2025-11-20 to 2025-11-25,3,Mobility assistance,Hindi,Non-vegetarian
+15,"Food festivals, Local cuisine, Markets",3800,2025-12-22 to 2025-12-27,1,No mobility issues,Hindi,Vegetarian
+16,"Trekking, Mountains, Nature",7200,2026-01-08 to 2026-01-13,2,No restrictions,English,Vegetarian
+17,"Temples, Religious sites, Pilgrimage",4200,2026-02-14 to 2026-02-19,4,No mobility issues,Hindi,Non-vegetarian
+18,"Adventure sports, Rock climbing, Hiking",11000,2026-03-10 to 2026-03-14,1,Mobility assistance,English,Vegetarian
+19,"Bird watching, Nature, Wildlife",7800,2026-04-05 to 2026-04-10,3,No restrictions,Hindi,Non-vegetarian
+20,"Cultural events, Folk music, Dance",5000,2026-05-15 to 2026-05-20,2,No mobility issues,Hindi,Vegetarian
+21,"Waterfalls, Scenic views, Nature",6000,2026-06-18 to 2026-06-23,4,No restrictions,English,Vegetarian
+22,"Heritage sites, History, Architecture",4800,2026-07-22 to 2026-07-27,1,Mobility assistance,Hindi,Non-vegetarian
+23,"Photography, Landscapes, Nature",9200,2026-08-12 to 2026-08-17,2,No mobility issues,Hindi,Vegetarian
+24,"Adventure, Camping, Trekking",13000,2026-09-08 to 2026-09-13,3,No restrictions,English,Non-vegetarian
+25,"Wildlife safari, Nature, Photography",8800,2026-10-15 to 2026-10-20,2,Mobility assistance,Hindi,Vegetarian
+26,"Local markets, Food, Culture",4200,2026-11-25 to 2026-11-30,1,No mobility issues,Hindi,Non-vegetarian
+27,"Trekking, Mountains, Nature walks",7500,2026-12-28 to 2027-01-02,4,No restrictions,English,Vegetarian
+28,"Temples, Pilgrimage, Religious sites",5200,2027-01-15 to 2027-01-20,2,No mobility issues,Hindi,Vegetarian
+29,"Adventure sports, Paragliding, Rock climbing",14000,2027-02-10 to 2027-02-14,1,Mobility assistance,English,Non-vegetarian
+30,"Bird watching, Nature, Wildlife",8200,2027-03-05 to 2027-03-10,3,No restrictions,Hindi,Vegetarian
+31,"Cultural heritage, Museums, History",4600,2027-04-12 to 2027-04-17,2,No mobility issues,Hindi,Non-vegetarian
+32,"Waterfalls, Scenic views, Nature",6800,2027-05-20 to 2027-05-25,4,No restrictions,English,Vegetarian
+33,"Heritage sites, Architecture, History",5000,2027-06-18 to 2027-06-23,1,Mobility assistance,Hindi,Non-vegetarian
+34,"Photography, Landscapes, Nature",9500,2027-07-22 to 2027-07-27,2,No mobility issues,Hindi,Vegetarian
+35,"Adventure, Camping, Hiking",12500,2027-08-10 to 2027-08-15,3,No restrictions,English,Non-vegetarian
+36,"Wildlife safari, Nature, Photography",8600,2027-09-12 to 2027-09-17,2,Mobility assistance,Hindi,Vegetarian
+37,"Local markets, Food, Culture",4400,2027-10-20 to 2027-10-25,1,No mobility issues,Hindi,Non-vegetarian
+38,"Trekking, Mountains, Nature walks",7800,2027-11-28 to 2027-12-03,4,No restrictions,English,Vegetarian
+39,"Temples, Pilgrimage, Religious sites",5400,2027-12-26 to 2028-01-01,2,No mobility issues,Hindi,Vegetarian
+40,"Adventure sports, Paragliding, Rock climbing",13500,2028-01-15 to 2028-01-19,1,Mobility assistance,English,Non-vegetarian
+41,"Bird watching, Nature, Wildlife",8400,2028-02-08 to 2028-02-13,3,No restrictions,Hindi,Vegetarian
+42,"Cultural heritage, Museums, History",4900,2028-03-15 to 2028-03-20,2,No mobility issues,Hindi,Non-vegetarian
+43,"Waterfalls, Scenic views, Nature",7000,2028-04-18 to 2028-04-23,4,No restrictions,English,Vegetarian
+44,"Heritage sites, Architecture, History",5200,2028-05-22 to 2028-05-27,1,Mobility assistance,Hindi,Non-vegetarian
+45,"Photography, Landscapes, Nature",9800,2028-06-10 to 2028-06-15,2,No mobility issues,Hindi,Vegetarian
+46,"Adventure, Camping, Hiking",13200,2028-07-12 to 2028-07-17,3,No restrictions,English,Non-vegetarian
+47,"Wildlife safari, Nature, Photography",8900,2028-08-20 to 2028-08-25,2,Mobility assistance,Hindi,Vegetarian
+48,"Local markets, Food, Culture",4600,2028-09-28 to 2028-10-03,1,No mobility issues,Hindi,Non-vegetarian
+49,"Trekking, Mountains, Nature walks",8000,2028-10-15 to 2028-10-20,4,No restrictions,English,Vegetarian
+50,"Temples, Pilgrimage, Religious sites",5600,2028-11-18 to 2028-11-23,2,No mobility issues,Hindi,Vegetarian
+51,"Adventure sports, Paragliding, Rock climbing",14200,2028-12-26 to 2029-01-01,1,Mobility assistance,English,Non-vegetarian
+52,"Bird watching, Nature, Wildlife",8600,2029-01-10 to 2029-01-15,3,No restrictions,Hindi,Vegetarian
+53,"Cultural heritage, Museums, History",5100,2029-02-20 to 2029-02-25,2,No mobility issues,Hindi,Non-vegetarian
+54,"Waterfalls, Scenic views, Nature",7200,2029-03-18 to 2029-03-23,4,No restrictions,English,Vegetarian
+55,"Heritage sites, Architecture, History",5400,2029-04-22 to 2029-04-27,1,Mobility assistance,Hindi,Non-vegetarian
+56,"Photography, Landscapes, Nature",10200,2029-05-10 to 2029-05-15,2,No mobility issues,Hindi,Vegetarian
+57,"Adventure, Camping, Hiking",13800,2029-06-12 to 2029-06-17,3,No restrictions,English,Non-vegetarian
+58,"Wildlife safari, Nature, Photography",9200,2029-07-20 to 2029-07-25,2,Mobility assistance,Hindi,Vegetarian
+59,"Local markets, Food, Culture",4800,2029-08-28 to 2029-09-02,1,No mobility issues,Hindi,Non-vegetarian
+60,"Trekking, Mountains, Nature walks",8200,2029-09-15 to 2029-09-20,4,No restrictions,English,Vegetarian
+61,"Temples, Pilgrimage, Religious sites",5800,2029-10-18 to 2029-10-23,2,No mobility issues,Hindi,Vegetarian
+62,"Adventure sports, Paragliding, Rock climbing",14800,2029-11-26 to 2029-12-01,1,Mobility assistance,English,Non-vegetarian
+63,"Bird watching, Nature, Wildlife",8800,2029-12-10 to 2029-12-15,3,No restrictions,Hindi,Vegetarian
+64,"Cultural heritage, Museums, History",5300,2030-01-20 to 2030-01-25,2,No mobility issues,Hindi,Non-vegetarian
+65,"Waterfalls, Scenic views, Nature",7400,2030-02-18 to 2030-02-23,4,No restrictions,English,Vegetarian
+66,"Heritage sites, Architecture, History",5600,2030-03-22 to 2030-03-27,1,Mobility assistance,Hindi,Non-vegetarian
+67,"Photography, Landscapes, Nature",10600,2030-04-10 to 2030-04-15,2,No mobility issues,Hindi,Vegetarian
+68,"Adventure, Camping, Hiking",14400,2030-05-12 to 2030-05-17,3,No restrictions,English,Non-vegetarian
+69,"Wildlife safari, Nature, Photography",9500,2030-06-20 to 2030-06-25,2,Mobility assistance,Hindi,Vegetarian
+70,"Local markets, Food, Culture",5000,2030-07-28 to 2030-08-02,1,No mobility issues,Hindi,Non-vegetarian
+71,"Trekking, Mountains, Nature walks",8400,2030-08-15 to 2030-08-20,4,No restrictions,English,Vegetarian
+72,"Temples, Pilgrimage, Religious sites",6000,2030-09-18 to 2030-09-23,2,No mobility issues,Hindi,Vegetarian
+73,"Adventure sports, Paragliding, Rock climbing",15200,2030-10-26 to 2030-10-31,1,Mobility assistance,English,Non-vegetarian
+74,"Bird watching, Nature, Wildlife",9000,2030-11-10 to 2030-11-15,3,No restrictions,Hindi,Vegetarian
+75,"Cultural heritage, Museums, History",5500,2030-12-20 to 2030-12-25,2,No mobility issues,Hindi,Non-vegetarian
+76,"Waterfalls, Scenic views, Nature",7600,2031-01-18 to 2031-01-23,4,No restrictions,English,Vegetarian
+77,"Heritage sites, Architecture, History",5800,2031-02-22 to 2031-02-27,1,Mobility assistance,Hindi,Non-vegetarian
+78,"Photography, Landscapes, Nature",11000,2031-03-10 to 2031-03-15,2,No mobility issues,Hindi,Vegetarian
+79,"Adventure, Camping, Hiking",15000,2031-04-12 to 2031-04-17,3,No restrictions,English,Non-vegetarian
+80,"Wildlife safari, Nature, Photography",9800,2031-05-20 to 2031-05-25,2,Mobility assistance,Hindi,Vegetarian
+81,"Local markets, Food, Culture",5200,2031-06-28 to 2031-07-03,1,No mobility issues,Hindi,Non-vegetarian
+82,"Trekking, Mountains, Nature walks",8600,2031-07-15 to 2031-07-20,4,No restrictions,English,Vegetarian
+83,"Temples, Pilgrimage, Religious sites",6200,2031-08-18 to 2031-08-23,2,No mobility issues,Hindi,Vegetarian
+84,"Adventure sports, Paragliding, Rock climbing",15600,2031-09-26 to 2031-10-01,1,Mobility assistance,English,Non-vegetarian
+85,"Bird watching, Nature, Wildlife",9200,2031-10-10 to 2031-10-15,3,No restrictions,Hindi,Vegetarian
+86,"Cultural heritage, Museums, History",5700,2031-11-20 to 2031-11-25,2,No mobility issues,Hindi,Non-vegetarian
+87,"Waterfalls, Scenic views, Nature",7800,2031-12-18 to 2031-12-23,4,No restrictions,English,Vegetarian
+88,"Heritage sites, Architecture, History",6000,2032-01-22 to 2032-01-27,1,Mobility assistance,Hindi,Non-vegetarian
+89,"Photography, Landscapes, Nature",11400,2032-02-10 to 2032-02-15,2,No mobility issues,Hindi,Vegetarian
+90,"Adventure, Camping, Hiking",15600,2032-03-12 to 2032-03-17,3,No restrictions,English,Non-vegetarian
+91,"Wildlife safari, Nature, Photography",10100,2032-04-20 to 2032-04-25,2,Mobility assistance,Hindi,Vegetarian
+92,"Local markets, Food, Culture",5400,2032-05-28 to 2032-06-02,1,No mobility issues,Hindi,Non-vegetarian
+93,"Trekking, Mountains, Nature walks",8800,2032-06-15 to 2032-06-20,4,No restrictions,English,Vegetarian
+94,"Temples, Pilgrimage, Religious sites",6400,2032-07-18 to 2032-07-23,2,No mobility issues,Hindi,Vegetarian
+95,"Adventure sports, Paragliding, Rock climbing",16000,2032-08-26 to 2032-08-31,1,Mobility assistance,English,Non-vegetarian
+96,"Bird watching, Nature, Wildlife",9400,2032-09-10 to 2032-09-15,3,No restrictions,Hindi,Vegetarian
+97,"Cultural heritage, Museums, History",5900,2032-10-20 to 2032-10-25,2,No mobility issues,Hindi,Non-vegetarian
+98,"Waterfalls, Scenic views, Nature",8000,2032-11-18 to 2032-11-23,4,No restrictions,English,Vegetarian
+99,"Heritage sites, Architecture, History",6200,2032-12-22 to 2032-12-27,1,Mobility assistance,Hindi,Non-vegetarian
+100,"Photography, Landscapes, Nature",11800,2033-01-10 to 2033-01-15,2,No mobility issues,Hindi,Vegetarian
